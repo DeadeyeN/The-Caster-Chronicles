@@ -1,7 +1,7 @@
 # The-Caster-Chronicles
 
 ## Introduction
-Welcome to The Caster Chronicles! This repository contains everything you'll need to play The Caster Chronicles on the program [Cockatrice](https://cockatrice.github.io/). Cockatrice is a program developed in C++ and QT5 for playing Magic: the Gathering by 
+Welcome to The Caster Chronicles! This repository contains everything you'll need to play [The Caster Chronicles](http://en.caster-chronicle-tcg.com/) on the program [Cockatrice](https://cockatrice.github.io/). Cockatrice is a program developed in C++ and QT5 for playing Magic: the Gathering by 
 a set of awesome developers. The documentation for their program is very robust, and you can learn everything you need to know about it by following the provided link. Thus, I'll only be giving the basic instructions and some tips and tricks in this guide.
 
 ## Installation instructions
