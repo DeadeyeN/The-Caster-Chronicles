@@ -13,6 +13,7 @@ This installation guide assumes basic computer literacy and a system without Coc
 4. Drag the `customsets` and `themes` folders of the unzipped repository into the Cockatrice folder. If you already have these folders created, merge the contents.
 5. Open Cockatrice and follow any prompts that it gives to enable sets. If you don't see any Casters cards in the card list, restart Cockatrice.
 6. In the settings menu (Cockatrice -> Settings), in the "Appearance" tab, select Casters in the dropdown.
+7. In the Edit Sets menu (Cockatrice -> Edit sets), make sure that all of the Caster Chronicles sets are enabled. If you prefer artwork from a certain set, the card database finds card images from the topmost set in the list.
 
 You're done! Restart Cockatrice if needed, then start building and playing!
 
@@ -21,4 +22,10 @@ Here are some gameplay tips and tricks to help your game go smoothly and effecti
 
 1. To place a card facedown on the field, hold `Shift` as you drag the card from whatever zone it's in to the field. For example, as you place orbs at the beginning of the game, hold `Shift` and drag seven cards to the bottom row of your field.
 2. Double-clicking a card will usually get it to where you want it to go. For example, double-clicking a Caster will automatically put it in your "Caster Zone" *(the bottom row of the play area)*, and double-clicking a Servant card will put it in the stack area *(chase area)*. Double-clicking that Servant again in the stack will put it into your field.
-3. To corrupt an orb, **always use the "peek" command on that card before moving it to your hand!** If you don't, 
+3. To corrupt an orb, **always use the "peek at card face" command on that card before moving it to your hand!** If you don't, you won't know whether that card has a [Break] ability or not until it's already in a private zone. Every facedown card is numbered, so make sure you keep track of both your and your opponent's facedown cards.
+4. As of right now there isn't a way to turn your cards upside-down to represent the "reverse" position. The easiest fix I can offer is to place a counter (preferably red) on the card to mark it as reversed.
+5. To use Soulbond Servants, add them to your sideboard (doubleclick from the main deck area, or Ctrl+Enter while the card name is highlighted in the deck editor). To grab them in-game, use Shift+F3 to access your sideboard. When playing a Soul Bond Servant, to mark both of the casters used to summon it to its stock, rightclick those casters and use the Attach to Card command on the Soul Bond servant. To unattach them, rightclick them again.
+6. If you can't figure out how to manipulate the cards to do what you want them to do, explore the rightclick menu on all sorts of objects in the window. It has tons of useful options for interacting with the GUI if you can't remember the keyboard shortcuts.
+
+#### Disclaimer
+I do not own The Caster Chronicles or contribute to Cockatrice. This is only a text document containing publicly available information. I do not gain anything from this project other than the personal satisfaction that I was able to help spread an awesome game.
