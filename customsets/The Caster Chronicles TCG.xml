@@ -153,7 +153,7 @@
       <cmc>1</cmc>
       <type>Servant - Youkai</type>
       <pt>5/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -165,7 +165,7 @@
       <cmc>1</cmc>
       <type>Servant - Youkai</type>
       <pt>10/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Banish an allied orb. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -177,7 +177,7 @@
       <cmc>2</cmc>
       <type>Servant - Youkai</type>
       <pt>30/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>At end of turn ⇒ Destroy this servant if it battled an enemy servant this turn.</text>
     </card>
     <card>
@@ -189,7 +189,7 @@
       <cmc>2</cmc>
       <type>Servant - Youkai</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -202,7 +202,7 @@
       <cmc>3</cmc>
       <type>Servant - Youkai</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -215,7 +215,7 @@
       <cmc>3</cmc>
       <type>Servant - Youkai</type>
       <pt>0/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break](When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)</text>
     </card>
     <card>
@@ -227,7 +227,7 @@
       <cmc>3</cmc>
       <type>Servant - Heroic Spirit/Genji</type>
       <pt>20/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Switch target enemy servant.</text>
     </card>
     <card>
@@ -239,7 +239,7 @@
       <cmc>4</cmc>
       <type>Servant - Youkai</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break](When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Enter] ⇒ Destroy target enemy servant with a cost of 3 or less.</text>
     </card>
@@ -252,7 +252,7 @@
       <cmc>5</cmc>
       <type>Servant - Cryptid</type>
       <pt>40/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Destroy target rested enemy servant.(When this servant enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -264,7 +264,7 @@
       <cmc>6</cmc>
       <type>Servant - Dragon</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 This servant gains +500 ATK and DEF for each allied Ignus caster.</text>
     </card>
@@ -401,7 +401,7 @@ This servant gains +500 ATK and DEF for each allied Ignus caster.</text>
       <cmc>1</cmc>
       <type>Servant - Flower</type>
       <pt>0/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -413,7 +413,7 @@ This servant gains +500 ATK and DEF for each allied Ignus caster.</text>
       <cmc>1</cmc>
       <type>Servant - Insect</type>
       <pt>5/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -425,7 +425,7 @@ This servant gains +500 ATK and DEF for each allied Ignus caster.</text>
       <cmc>2</cmc>
       <type>Servant - Insect</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -437,7 +437,7 @@ This servant gains +500 ATK and DEF for each allied Ignus caster.</text>
       <cmc>2</cmc>
       <type>Servant - Flower</type>
       <pt>0/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -449,7 +449,7 @@ This servant gains +500 ATK and DEF for each allied Ignus caster.</text>
       <cmc>3</cmc>
       <type>Servant - Flower</type>
       <pt>0/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)</text>
     </card>
     <card>
@@ -461,7 +461,7 @@ This servant gains +500 ATK and DEF for each allied Ignus caster.</text>
       <cmc>3</cmc>
       <type>Servant - Heroic Spirit/Heishi</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Each player banishes a non-Heishi servant.</text>
     </card>
     <card>
@@ -474,7 +474,7 @@ This servant gains +500 ATK and DEF for each allied Ignus caster.</text>
       <cmc>3</cmc>
       <type>Servant - Insect</type>
       <pt>20/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>This card cannot be attacked while rested.
 This card may attack enemy players even if there are reversed enemy servants.</text>
     </card>
@@ -488,7 +488,7 @@ This card may attack enemy players even if there are reversed enemy servants.</t
       <cmc>4</cmc>
       <type>Servant - Insect</type>
       <pt>20/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Enter] ⇒ Destroy target enemy servant with a cost of 3 or less. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
@@ -501,7 +501,7 @@ This card may attack enemy players even if there are reversed enemy servants.</t
       <cmc>5</cmc>
       <type>Servant - Cryptid</type>
       <pt>40/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Target enemy player banishes a servant. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -513,7 +513,7 @@ This card may attack enemy players even if there are reversed enemy servants.</t
       <cmc>6</cmc>
       <type>Servant - Cryptid</type>
       <pt>40/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 [Enter] ⇒ Destroy target rested enemy servant.</text>
     </card>
@@ -652,7 +652,7 @@ Rest all enemy servants.</text>
       <cmc>1</cmc>
       <type>Servant - Sweets</type>
       <pt>5/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -663,7 +663,7 @@ Rest all enemy servants.</text>
       <cmc>2</cmc>
       <type>Servant - Sweets</type>
       <pt>0/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -674,7 +674,7 @@ Rest all enemy servants.</text>
       <cmc>2</cmc>
       <type>Servant - Sweets</type>
       <pt>30/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>At end of turn ⇒ Banish this card.</text>
     </card>
     <card>
@@ -685,7 +685,7 @@ Rest all enemy servants.</text>
       <cmc>2</cmc>
       <type>Servant - Sweets</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -696,7 +696,7 @@ Rest all enemy servants.</text>
       <cmc>3</cmc>
       <type>Servant - Sweets</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Last Words] ⇒ Rest target enemy servant. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
     </card>
@@ -708,7 +708,7 @@ Rest all enemy servants.</text>
       <cmc>3</cmc>
       <type>Servant - Sweets</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -719,7 +719,7 @@ Rest all enemy servants.</text>
       <cmc>3</cmc>
       <type>Servant - Heroic Spirit</type>
       <pt>20/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Search your deck for a Sweets with a cost of 1, reveal it and put it into your hand. Then shuffle your deck.</text>
     </card>
     <card>
@@ -731,7 +731,7 @@ Rest all enemy servants.</text>
       <cmc>4</cmc>
       <type>Servant - Cryptid</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>Whenever this card attacks an enemy servant ⇒ Destroy that enemy servant.</text>
     </card>
     <card>
@@ -743,7 +743,7 @@ Rest all enemy servants.</text>
       <cmc>4</cmc>
       <type>Servant - Sweets</type>
       <pt>0/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Enter] ⇒ Put target servant in an allied graveyard into your hand. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
@@ -755,7 +755,7 @@ Rest all enemy servants.</text>
       <cmc>4</cmc>
       <type>Servant - Sweets</type>
       <pt>40/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Banish an allied servant. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -766,7 +766,7 @@ Rest all enemy servants.</text>
       <cmc>5</cmc>
       <type>Servant - Sweets</type>
       <pt>40/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Put target Sweets with a cost of 1 from an allied graveyard into the field.</text>
     </card>
     <card>
@@ -777,7 +777,7 @@ Rest all enemy servants.</text>
       <cmc>6</cmc>
       <type>Servant - Cryptid</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 Whenever this card corrupts an orb ⇒ Target enemy player discards a card.</text>
     </card>
@@ -789,7 +789,7 @@ Whenever this card corrupts an orb ⇒ Target enemy player discards a card.</tex
       <cmc>7</cmc>
       <type>Servant - Demon</type>
       <pt>40/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 [Enter] ⇒ Destroy target enemy servant and target allied servant.</text>
     </card>
@@ -854,7 +854,7 @@ Destroy target servant.</text>
       <manacost>4</manacost>
       <cmc>4</cmc>
       <type>Barrier</type>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>At end of enemy turn ⇒ That enemy player discards a card.</text>
     </card>
     <card>
@@ -865,7 +865,7 @@ Destroy target servant.</text>
       <cmc>4</cmc>
       <type>Servant - Youkai</type>
       <pt>40/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>At end of turn ⇒ Return this card to its owner's hand.</text>
     </card>
     <card>
@@ -876,7 +876,7 @@ Destroy target servant.</text>
       <cmc>5</cmc>
       <type>Servant - Youkai</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>This card gains [Double Corrupt] as long as there are four or fewer allied orbs. (When this servant corrupts, it corrupts two orbs instead of one.)</text>
     </card>
     <card>
@@ -887,7 +887,7 @@ Destroy target servant.</text>
       <cmc>7</cmc>
       <type>Servant - Demon</type>
       <pt>70/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 At end of turn ⇒ Return an allied caster from the field to its owner's hand.</text>
     </card>
@@ -919,7 +919,7 @@ Destroy target enemy servant with a cost of 6 or less.</text>
       <manacost>4</manacost>
       <cmc>4</cmc>
       <type>Barrier</type>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>Enemy servants enter the field recovered.
 Enemy servants cannot be switched except by spell or ability.</text>
     </card>
@@ -1012,7 +1012,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>1</cmc>
       <type>Servant - Monk</type>
       <pt>0/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -1023,7 +1023,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>2</cmc>
       <type>Servant - Plant</type>
       <pt>20/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>This card cannot attack enemy players.</text>
     </card>
     <card>
@@ -1034,7 +1034,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>2</cmc>
       <type>Servant - Monk</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -1045,7 +1045,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>2</cmc>
       <type>Servant - Insect</type>
       <pt>0/5</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Last Words] ⇒ Return target enemy servant that attacked this card this turn to its owner's hand. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1056,7 +1056,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>3</cmc>
       <type>Servant - Youkai</type>
       <pt>10/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Slow Start] （This card cannot attack the turn it is played to the field.）</text>
     </card>
@@ -1068,7 +1068,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>3</cmc>
       <type>Servant - Monk</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>At the start of your turn ⇒ Return this card to its owner's hand.</text>
     </card>
     <card>
@@ -1080,7 +1080,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>4</cmc>
       <type>Servant - Cryptid</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Enter] ⇒ Return target servant with total cost 3 or less to its owner's hand. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
@@ -1092,7 +1092,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>4</cmc>
       <type>Servant - Cryptid</type>
       <pt>40/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Slow Start] （This card cannot attack the turn it is played to the field.）</text>
     </card>
     <card>
@@ -1103,7 +1103,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>5</cmc>
       <type>Servant - Plant</type>
       <pt>10/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -1115,7 +1115,7 @@ Enemy servants cannot be switched except by spell or ability.</text>
       <cmc>5</cmc>
       <type>Servant - Cryptid</type>
       <pt>50/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Slow Start] （This card cannot attack the turn it is played to the field.）
 Whenever this card destroys an enemy servant by battle ⇒ Recover this card. Play this ability only once per turn.</text>
     </card>
@@ -1127,7 +1127,7 @@ Whenever this card destroys an enemy servant by battle ⇒ Recover this card. Pl
       <cmc>6</cmc>
       <type>Servant - Cryptid</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 [Enter] ⇒ Return target servant to its owner's hand.</text>
     </card>
@@ -1139,7 +1139,7 @@ Whenever this card destroys an enemy servant by battle ⇒ Recover this card. Pl
       <cmc>6</cmc>
       <type>Servant - Cryptid</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>At end of turn ⇒ If this card was put into a graveyard from the field this turn, put it into the field under its owner's control.</text>
     </card>
     <card>
@@ -1150,7 +1150,7 @@ Whenever this card destroys an enemy servant by battle ⇒ Recover this card. Pl
       <cmc>7</cmc>
       <type>Servant - Demon</type>
       <pt>40/50</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 Enemy players can't play non-aether activated abilities of casters.</text>
     </card>
@@ -1212,7 +1212,7 @@ Return target servant to its owner's hand.</text>
       <manacost>4</manacost>
       <cmc>4</cmc>
       <type>Barrier</type>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>All servants gain [Slow Start]. （This card cannot attack the turn it is played to the field.）</text>
     </card>
     <card>
@@ -1223,7 +1223,7 @@ Return target servant to its owner's hand.</text>
       <cmc>4</cmc>
       <type>Servant - Flower</type>
       <pt>0/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -1234,7 +1234,7 @@ Return target servant to its owner's hand.</text>
       <cmc>5</cmc>
       <type>Servant - Tengu</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>At the start of your turn ⇒ Return this card to its owner's hand.
 [Enter] ⇒ Put target conjure in an allied graveyard into your hand.</text>
     </card>
@@ -1246,7 +1246,7 @@ Return target servant to its owner's hand.</text>
       <cmc>5</cmc>
       <type>Servant - Cryptid</type>
       <pt>40/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Destroy target enemy servant if you control no other allied servants. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1257,7 +1257,7 @@ Return target servant to its owner's hand.</text>
       <cmc>7</cmc>
       <type>Servant - Demon</type>
       <pt>50/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 This card cannot be attacked while rested.
 This card may attack enemy players even if there are reversed enemy servants.</text>
@@ -1280,7 +1280,7 @@ Return target allied servant to its owner's hand.</text>
       <manacost>4</manacost>
       <cmc>4</cmc>
       <type>Barrier</type>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>Rested allied servants can't be attacked.</text>
     </card>
     <card>
@@ -1373,7 +1373,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>1</cmc>
       <type>Servant - Youkai</type>
       <pt>5/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Look at target enemy orb, then return it. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1384,7 +1384,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>2</cmc>
       <type>Servant - Youkai</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -1396,7 +1396,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>2</cmc>
       <type>Servant - Youkai</type>
       <pt>0/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Destroy target barrier. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1407,7 +1407,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>3</cmc>
       <type>Servant - Cryptid</type>
       <pt>10/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>Discard a card: This card gains +1000 ATK until end of turn. Play this ability only during an allied turn.</text>
     </card>
     <card>
@@ -1419,7 +1419,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>3</cmc>
       <type>Servant - Cryptid</type>
       <pt>20/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Enter] ⇒ Draw a card. Then discard a card. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
@@ -1431,7 +1431,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>3</cmc>
       <type>Servant - Jewelry</type>
       <pt>5/5</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Last Words] ⇒ Return this card from the graveyard to its owner's hand. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1442,7 +1442,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>4</cmc>
       <type>Servant - Jewelry</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Last Words] ⇒ Put a card from your hand into an allied orb zone face down, as an orb. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
     </card>
@@ -1454,7 +1454,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>4</cmc>
       <type>Servant - Cryptid</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>Discard a card: This card gains +2000 ATK until end of turn.</text>
     </card>
     <card>
@@ -1465,7 +1465,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>4</cmc>
       <type>Servant - Jewelry</type>
       <pt>20/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>Whenever this card switches ⇒ Draw a card. (When this card is changed from non-reversed to reversed, or from reversed to recovered ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1476,7 +1476,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>5</cmc>
       <type>Servant - Jewelry</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Search your deck for a Jewelry, reveal it and put it into your hand. Then shuffle your deck. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1487,7 +1487,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>5</cmc>
       <type>Servant - Cryptid</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Last Words] ⇒ Put up to two servants with a cost of two or less each from your hand into the field.</text>
     </card>
     <card>
@@ -1498,7 +1498,7 @@ Return target allied servant to its owner's hand.</text>
       <cmc>6</cmc>
       <type>Servant - Cryptid</type>
       <pt>50/50</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 Discard two cards: Return this card to its owner's hand. Enemy players may also play this ability.</text>
     </card>
@@ -1510,7 +1510,7 @@ Discard two cards: Return this card to its owner's hand. Enemy players may also 
       <cmc>7</cmc>
       <type>Servant - Demon</type>
       <pt>40/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 [Enter] ⇒ Put up to two cards from your hand face down into an allied orb zone as orbs.</text>
     </card>
@@ -1575,7 +1575,7 @@ Put target servant into its owner's orb zone face down, as an orb.</text>
       <manacost>4</manacost>
       <cmc>4</cmc>
       <type>Barrier</type>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>Whenever an allied servant corrupts an orb ⇒ Draw a card.</text>
     </card>
     <card>
@@ -1667,7 +1667,7 @@ Put target servant into its owner's orb zone face down, as an orb.</text>
       <cmc>1</cmc>
       <type>Servant - Supplies</type>
       <pt>5/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Look at the top card of your deck, then return it. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1678,7 +1678,7 @@ Put target servant into its owner's orb zone face down, as an orb.</text>
       <cmc>2</cmc>
       <type>Servant - Supplies</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[1]: This card gains +500 ATK until end of turn. Play this ability only during an allied turn.</text>
     </card>
     <card>
@@ -1689,7 +1689,7 @@ Put target servant into its owner's orb zone face down, as an orb.</text>
       <cmc>2</cmc>
       <type>Servant - Supplies</type>
       <pt>5/5</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>This card gains +1000 ATK while battling a Solis or Terra servant.
 This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
     </card>
@@ -1701,7 +1701,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>2</cmc>
       <type>Servant - Supplies</type>
       <pt>0/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Last Words] ⇒ Destroy target barrier. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1712,7 +1712,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>3</cmc>
       <type>Servant - Demon</type>
       <pt>20/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Target enemy player banishes a servant if they control more servants than there are allied servants.</text>
     </card>
     <card>
@@ -1723,7 +1723,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>3</cmc>
       <type>Servant - Supplies</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Last Words] ⇒ Destroy target enemy servant with a cost of 2 or less. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1735,7 +1735,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>3</cmc>
       <type>Servant - Supplies</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Enter] ⇒ Rest or reverse target servant. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
@@ -1748,7 +1748,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>4</cmc>
       <type>Servant - Supplies</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Enter] ⇒ Choose two target servants an enemy player controls. That enemy player banishes one of them. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
@@ -1760,7 +1760,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>4</cmc>
       <type>Servant - Supplies</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[1]: This card gains +1000 ATK until end of turn. Play this ability only during an allied turn.</text>
     </card>
     <card>
@@ -1771,7 +1771,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>5</cmc>
       <type>Servant - Supplies</type>
       <pt>10/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Put up to two target Supplies with a cost of 1 each from an allied graveyard into the field.</text>
     </card>
     <card>
@@ -1782,7 +1782,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>5</cmc>
       <type>Servant - Supplies</type>
       <pt>20/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Target enemy player reveals their hand. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1793,7 +1793,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>6</cmc>
       <type>Servant - Cryptid</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Search your deck for a card. Then shuffle the rest of your deck and put that card on top of it.</text>
     </card>
     <card>
@@ -1804,7 +1804,7 @@ This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
       <cmc>7</cmc>
       <type>Servant - Demon</type>
       <pt>40/50</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 Whenever this card switches ⇒ Search your deck for a servant. Reveal it and put it into your hand. Then shuffle your deck.</text>
     </card>
@@ -1870,7 +1870,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <manacost>4</manacost>
       <cmc>4</cmc>
       <type>Barrier</type>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>If you would draw a card, you may instead look at the top three cards of your deck. If you do, choose one from among them and put it into your hand and put the rest on the bottom of your deck in any order.</text>
     </card>
     <card>
@@ -1964,7 +1964,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>1</cmc>
       <type>Servant - Cosmetics</type>
       <pt>5/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Look at target allied orb, then return it. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -1975,7 +1975,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>2</cmc>
       <type>Servant - Cosmetics</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>At end of turn ⇒ Return this card to its owner's hand if it battled this turn.</text>
     </card>
     <card>
@@ -1986,7 +1986,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>2</cmc>
       <type>Servant - Cosmetics</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -1998,7 +1998,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>3</cmc>
       <type>Servant - Cosmetics</type>
       <pt>0/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)</text>
     </card>
     <card>
@@ -2009,7 +2009,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>3</cmc>
       <type>Servant - Cosmetics</type>
       <pt>20/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -2020,7 +2020,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>3</cmc>
       <type>Servant - Cosmetics</type>
       <pt>10/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Last Words] ⇒ Recover target Lv1 allied caster. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -2031,7 +2031,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>4</cmc>
       <type>Servant - Heroic Spirit</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Last Words] ⇒ Put the top card of your deck into an allied caster zone face down, as a caster.</text>
     </card>
@@ -2043,7 +2043,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>4</cmc>
       <type>Servant - Angel</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 [Enter] ⇒ Reverse target servant. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
@@ -2055,7 +2055,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>4</cmc>
       <type>Servant - Youkai</type>
       <pt>30/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -2066,7 +2066,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>5</cmc>
       <type>Servant - Youkai</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Banish another allied servant. If you do, reveal cards from the top of your deck until you reveal a servant. Put the servant revealed this way into the field and shuffle all other cards revealed this way into your deck.</text>
     </card>
     <card>
@@ -2077,7 +2077,7 @@ Exchange control of target allied servant and target enemy servant.</text>
       <cmc>5</cmc>
       <type>Servant - Youkai</type>
       <pt>30/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
 At end of turn ⇒ Return this card to its owner's hand if it battled this turn.</text>
     </card>
@@ -2089,7 +2089,7 @@ At end of turn ⇒ Return this card to its owner's hand if it battled this turn.
       <cmc>6</cmc>
       <type>Servant - Cryptid</type>
       <pt>30/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 [Enter] ⇒ Reverse target non-reversed enemy servant, or rest target reversed enemy servant.</text>
     </card>
@@ -2101,7 +2101,7 @@ At end of turn ⇒ Return this card to its owner's hand if it battled this turn.
       <cmc>7</cmc>
       <type>Servant - Demon</type>
       <pt>50/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
 Enemy servants cannot be switched except by spell or ability.</text>
     </card>
@@ -2165,7 +2165,7 @@ Put target servant into it's owner's caster zone face down, as a caster.</text>
       <manacost>4</manacost>
       <cmc>4</cmc>
       <type>Barrier</type>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>All casters lose all abilities and gain "[Rest]: This card produces a number of aether of this card's element equal to it's level plus 1."</text>
     </card>
     <card>
@@ -2228,7 +2228,7 @@ Put target servant into it's owner's caster zone face down, as a caster.</text>
       <cmc>2</cmc>
       <type>Servant - Heroic Spirit/Genji</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Search your deck for up to four Genji servants not named "Tomoe" and reveal them. Then shuffle the rest of your deck and put the revealed cards on top of your deck in any order.</text>
     </card>
     <card>
@@ -2239,7 +2239,7 @@ Put target servant into it's owner's caster zone face down, as a caster.</text>
       <cmc>3</cmc>
       <type>Servant - Heroic Spirit/Genji</type>
       <pt>20/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Last Words] ⇒ Put target Genji not named "Yoshinaka" from an allied graveyard into your hand.</text>
     </card>
     <card>
@@ -2250,7 +2250,7 @@ Put target servant into it's owner's caster zone face down, as a caster.</text>
       <cmc>4</cmc>
       <type>Servant - Sweets</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Target enemy player discards two cards.</text>
     </card>
     <card>
@@ -2261,7 +2261,7 @@ Put target servant into it's owner's caster zone face down, as a caster.</text>
       <cmc>5</cmc>
       <type>Servant - Cryptid</type>
       <pt>40/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Last Words] ⇒ Destroy target servant.</text>
     </card>
     <card>
@@ -2344,7 +2344,7 @@ Search your deck for a card and put it into your hand. Then shuffle your deck.</
       <cmc>3</cmc>
       <type>Servant - Heroic Spirit</type>
       <pt>20/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Search your deck for a Youkai with a cost of 1, reveal it and put it into your hand. Then shuffle your deck.</text>
     </card>
     <card>
@@ -2355,7 +2355,7 @@ Search your deck for a card and put it into your hand. Then shuffle your deck.</
       <cmc>4</cmc>
       <type>Servant - Heroic Spirit/Genji</type>
       <pt>30/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Reveal the top four cards of your deck. Put all revealed Genjis from among them into your hand. Put the rest on the bottom of your deck in any order. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -2366,7 +2366,7 @@ Search your deck for a card and put it into your hand. Then shuffle your deck.</
       <cmc>5</cmc>
       <type>Servant - Heroic Spirit/Genji</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Search your deck for up to two Genjis with a cost of 1 and put them into the field. Then shuffle your deck. (When this card enters the field ⇒ Perform the effect.)</text>
     </card>
     <card>
@@ -2377,7 +2377,7 @@ Search your deck for a card and put it into your hand. Then shuffle your deck.</
       <cmc>5</cmc>
       <type>Servant - Tengu</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>At end of turn ⇒ Put this card into its owner's hand.
 [Enter] ⇒ Rest all reversed enemy servants and reverse any non-reversed enemy servants.</text>
     </card>
@@ -2409,7 +2409,7 @@ Destroy target enemy servant attacking you.</text>
       <manacost>5</manacost>
       <cmc>5</cmc>
       <type>Barrier</type>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>Banish a Genji: Corrupt target enemy orb. Play this ability only during main timing.</text>
     </card>
     <card>
@@ -2461,7 +2461,7 @@ Destroy target enemy servant attacking you.</text>
       <cmc>1</cmc>
       <type>Servant - Monk/Heishi</type>
       <pt>0/5</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Slow Start] (This card cannot attack the turn it is played to the field.)
 [Last Words] ⇒ Search your deck for a Heishi not named "Biwa Monk", reveal it and put it into your hand. Then shuffle your deck. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
     </card>
@@ -2473,7 +2473,7 @@ Destroy target enemy servant attacking you.</text>
       <cmc>3</cmc>
       <type>Servant - Cryptid</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Slow Start] (This card cannot attack the turn it is played to the field.)</text>
     </card>
     <card>
@@ -2484,7 +2484,7 @@ Destroy target enemy servant attacking you.</text>
       <cmc>4</cmc>
       <type>Servant - Monk/Genji</type>
       <pt>30/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Target enemy servant gains -2000 ATK until end of turn.</text>
     </card>
     <card>
@@ -2568,7 +2568,7 @@ Recovered and rested servants you control can't be attacked this turn.</text>
       <cmc>2</cmc>
       <type>Servant - Heroic Spirit/Heishi</type>
       <pt>20/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Hubris] (Cards with [Hubris] may attack enemy players even if there are reversed enemy servants.)</text>
     </card>
     <card>
@@ -2579,7 +2579,7 @@ Recovered and rested servants you control can't be attacked this turn.</text>
       <cmc>5</cmc>
       <type>Servant - Heroic Spirit/Heishi</type>
       <pt>40/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>This card gains [Double Corrupt] and [Hubris] as long as you control another Heishi. (Cards with [Hubris] may attack enemy players even if there are reversed enemy servants.)
 This card cannot be attacked while rested.</text>
     </card>
@@ -2591,7 +2591,7 @@ This card cannot be attacked while rested.</text>
       <cmc>6</cmc>
       <type>Servant - Vampire</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>Whenever this card corrupts an orb ⇒ Put the top card of your deck into an allied orb zone face down, as an orb.</text>
     </card>
     <card>
@@ -2623,7 +2623,7 @@ Return target servant spell to its owner's hand.</text>
       <manacost>5</manacost>
       <cmc>5</cmc>
       <type>Barrier</type>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>Heishi you control gain [Hubris] as long as there are more allied Heishi than enemy servants.
 At the end of your turn ⇒ Banish a servant.</text>
     </card>
@@ -2676,7 +2676,7 @@ At the end of your turn ⇒ Banish a servant.</text>
       <cmc>2</cmc>
       <type>Servant - Heroic Spirit/Heishi</type>
       <pt>5/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>You may pay [1] less to play this card if a Heishi not named "Tadanori" was put into the field this turn. (This cost can't be reduced lower than 1.)</text>
     </card>
     <card>
@@ -2687,7 +2687,7 @@ At the end of your turn ⇒ Banish a servant.</text>
       <cmc>3</cmc>
       <type>Servant - Youkai/Heishi</type>
       <pt>20/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Draw a card.</text>
     </card>
     <card>
@@ -2698,7 +2698,7 @@ At the end of your turn ⇒ Banish a servant.</text>
       <cmc>3</cmc>
       <type>Servant - Cryptid</type>
       <pt>40/40</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>Whenever this card is attacked ⇒ That attacking enemy player gains control of this card.</text>
     </card>
     <card>
@@ -2781,7 +2781,7 @@ Until end of turn, if target enemy player would draw a card by a card or ability
       <cmc>3</cmc>
       <type>Servant - Heroic Spirit/Heishi</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Quickcast] (You may play this card any time you have priority.)
 [Enter] ⇒ Rest or reverse target servant.</text>
     </card>
@@ -2793,7 +2793,7 @@ Until end of turn, if target enemy player would draw a card by a card or ability
       <cmc>3</cmc>
       <type>Servant - Supplies</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>Whenever this card is targeted by an enemy card or ability ⇒ That enemy player discards a card.</text>
     </card>
     <card>
@@ -2804,7 +2804,7 @@ Until end of turn, if target enemy player would draw a card by a card or ability
       <cmc>4</cmc>
       <type>Servant - Heroic Spirit/Heishi</type>
       <pt>20/20</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Search your deck for a Heishi not named "Iemori", reveal it and put it into your hand. Then shuffle your deck.</text>
     </card>
     <card>
@@ -2887,7 +2887,7 @@ Reveal the top five cards of your deck. Put a Heishi from among them into the fi
       <cmc>1</cmc>
       <type>Servant - Heroic Spirit/Genji</type>
       <pt>5/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text></text>
     </card>
     <card>
@@ -2898,7 +2898,7 @@ Reveal the top five cards of your deck. Put a Heishi from among them into the fi
       <cmc>2</cmc>
       <type>Servant - Heroic Spirit/Genji</type>
       <pt>5/5</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>[Enter] ⇒ Rest target reversed enemy servant.</text>
     </card>
     <card>
@@ -2909,7 +2909,7 @@ Reveal the top five cards of your deck. Put a Heishi from among them into the fi
       <cmc>5</cmc>
       <type>Servant - Tengu</type>
       <pt>30/30</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>At the beginning of your turn ⇒ Return this card to its owner's hard.
 [Enter] ⇒ Gain control of target enemy servant as long as this card is in the field. (Even if control of this card changes, you retain control of the targeted card.)</text>
     </card>
@@ -2953,7 +2953,7 @@ Search your deck for two Lv1 casters with different names, reveal them and put t
       <cmc/>
       <type>Soul Bond Servant - Spirit Form</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>"Twinkle Charm" ♥ "Zoi Russel"
 [Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter]. Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
 [Enter] ⇒ Target enemy player banishes a servant.</text>
@@ -2966,7 +2966,7 @@ Search your deck for two Lv1 casters with different names, reveal them and put t
       <cmc/>
       <type>Soul Bond Servant - Spirit Form</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>"Deshi Lion" ♥ "Chaleur Suu"
 [Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
 [Enter] ⇒ Destroy target reversed enemy servant.</text>
@@ -2979,7 +2979,7 @@ Search your deck for two Lv1 casters with different names, reveal them and put t
       <cmc/>
       <type>Soul Bond Servant - Spirit Form</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>"Flame Rouge" ♥ "Chain of Hearts"
 [Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
 [Enter] ⇒ Return target servant to its owner's hand.</text>
@@ -2992,7 +2992,7 @@ Search your deck for two Lv1 casters with different names, reveal them and put t
       <cmc/>
       <type>Soul Bond Servant - Spirit Form</type>
       <pt>20/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>"Ran Berfield" ♥ "Miu"
 [Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
 [Enter] ⇒ Put target servant in an allied graveyard into your hand. (When this card enters the field ⇒ Perform the effect.)</text>
@@ -3005,7 +3005,7 @@ Search your deck for two Lv1 casters with different names, reveal them and put t
       <cmc/>
       <type>Soul Bond Servant - Spirit Form</type>
       <pt>20/0</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>"Sunny" ♥ "Shera Angellica"
 [Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
 [Enter] ⇒ Target enemy player discards a card.
@@ -3019,7 +3019,7 @@ Whenever this card corrupts an orb ⇒ Draw a card.</text>
       <cmc/>
       <type>Soul Bond Servant - Spirit Form</type>
       <pt>10/10</pt>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
       <text>"Paruetta" ♥ "Eli Superior"
 [Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
 [Enter] ⇒ Look at the top four cards of your deck. You may choose a Flower or Insect from among them and put it into the field. Put the rest on the bottom of your deck in any order.
