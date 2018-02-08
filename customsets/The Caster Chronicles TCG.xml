@@ -1,0 +1,3029 @@
+<?xml version='1.0' encoding='UTF8'?>
+<cockatrice_carddatabase version="3">
+  <sets>
+    <set>
+      <name>SD01</name>
+      <longname>Starter Deck [Wings of Anger]</longname>
+      <settype>Starter</settype>
+      <releasedate>2017-10-20</releasedate>
+    </set>
+    <set>
+      <name>SD02</name>
+      <longname>Starter Deck [Arrogant Swallowtail]</longname>
+      <settype>Starter</settype>
+      <releasedate>2017-10-20</releasedate>
+    </set>
+    <set>
+      <name>BP01</name>
+      <longname>Booster Pack Vol. 1 [The Magic Battle Begins]</longname>
+      <settype>Expansion</settype>
+      <releasedate>2017-10-20</releasedate>
+    </set>
+    <set>
+      <name>BP01S</name>
+      <longname>Booster Pack Vol. 1 [The Magic Battle Begins] Secret Rare Cards</longname>
+      <settype>Special</settype>
+      <releasedate>2017-10-20</releasedate>
+    </set>
+    <set>
+      <name>BP02</name>
+      <longname>Booster Pack Vol. 2 [πth Dimension Battle Royale]</longname>
+      <settype>Expansion</settype>
+      <releasedate>2018-02-09</releasedate>
+    </set>
+    <set>
+      <name>PR</name>
+      <longname>The Caster Chronicles Promo Cards</longname>
+      <settype>Promo</settype>
+      <releasedate>2018-02-09</releasedate>
+    </set>
+    <set>
+      <name>TCCB</name>
+      <longname>The Caster Chronicles Base</longname>
+      <settype>Core</settype>
+      <releasedate>2017-10-20</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>The Coin</name>
+      <set picURL="https://i.imgur.com/7783OBp.png">TCCB</set>
+      <color/>
+      <cmc>0</cmc>
+      <type/>
+      <tablerow>0</tablerow>
+      <text>Banish this card: Produce [1]. Play this ability only from your caster zone.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Carella Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/35/358/image_en/e480a8d9-2ba4-4547-bdbd-9e460ad62a2e.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/657/image_en/21bda87f-4911-465d-a693-14dd93eed4db.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Destroy target enemy servant with a cost of 1.</text>
+    </card>
+    <card>
+      <name>Kiro Centura Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/35/359/image_en/716cff64-bd80-40e6-83ff-f720528ccd98.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/658/image_en/7ae88c31-963d-4d2b-a49a-8b1171c1c52c.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Reveal the top card of your deck. If it's a Lv1 caster, add it to your hand.</text>
+    </card>
+    <card>
+      <name>Shera Angellica Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/360/image_en/a8ff87f9-2f67-409d-a731-7d9031b9f05e.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/659/image_en/551a6ee5-0127-407f-adcb-aface8ec3f6a.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an allied servant corrupted an enemy orb this turn.</text>
+    </card>
+    <card>
+      <name>Crimson Nicola Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/361/image_en/e841b42e-ef87-463d-9721-02b1081a55a6.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/660/image_en/5bb2bd6e-91ce-4147-9449-4c34dcf79bf7.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if two or more allied servants entered the field this turn.</text>
+    </card>
+    <card>
+      <name>Passion Wing Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/362/image_en/a25b476b-83bf-4f91-a517-5ec78c618d47.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/661/image_en/283b0366-11ae-4cec-9342-a70c671954b7.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target allied servant gains +500 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Passion Wing Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/363/image_en/34a1e3db-d469-4a75-a7bb-8a24e9150488.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/662/image_en/71def2f2-a51f-4522-9cc4-b3d90a4e89a7.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Passion Wing": Destroy target enemy servant with a cost of 2 or less.
+[Rest]: Target allied servant gains +1000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Paruetta Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/364/image_en/dfbd91ef-2629-495e-afe1-e6dc7ccc2d98.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/663/image_en/9057b972-dfae-49d7-b2aa-9a958f3dd160.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Target enemy player discards a card. Play this ability only during your main phase.</text>
+    </card>
+    <card>
+      <name>Flame Rouge Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/365/image_en/a91f9f8c-2e2d-46e6-a618-0baf852ce752.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/664/image_en/31461df4-1f93-404b-a009-5d474d95ebb5.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an allied servant destroyed an enemy servant in battle this turn.</text>
+    </card>
+    <card>
+      <name>Disembodied Soul</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/366/image_en/acc3a7c3-154d-4b33-ae2d-a73214255f57.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/665/image_en/6f5fbe8b-f45b-4cc2-8cc5-b3e22bb00cbb.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Youkai</type>
+      <pt>5/0</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Straw Effigy</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/367/image_en/8171cd39-0e75-41de-b5da-eb4e08e9a515.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/666/image_en/6254c255-97d2-4842-bdd0-aa9290c613ec.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Youkai</type>
+      <pt>10/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Banish an allied orb. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Explosive Bamboo</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/368/image_en/d00614f2-9350-430c-a1aa-9632ba245134.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/667/image_en/9111a831-5ba2-4810-a585-af5788e1e7e1.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Youkai</type>
+      <pt>30/0</pt>
+      <tablerow>3</tablerow>
+      <text>At end of turn ⇒ Destroy this servant if it battled an enemy servant this turn.</text>
+    </card>
+    <card>
+      <name>Little Match Girl</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/36/369/image_en/faeacfbb-2a44-44ba-8f69-ea3d9058faa1.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/668/image_en/13a802d8-15bd-4252-be8b-e4f58400c67b.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Youkai</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Tanuki of Kachi-Kachi Mountain</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/370/image_en/c21ba58f-ae37-48ef-b390-b756ac9a99b5.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/66/669/image_en/2f34d9ee-0a7f-4ad5-aaac-ee30f06a48ae.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/61/618/image_en/2643f4df-8d2c-443d-876f-45f9900d34c7.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Youkai</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Patience Bag</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/371/image_en/9ec5d56a-352c-4ab7-b14f-b089be2194ad.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/670/image_en/2c70390b-832c-4375-aa34-9f04cbe1914c.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/61/619/image_en/ad41e169-8c68-4c58-bd5b-f49c8a9e461e.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Youkai</type>
+      <pt>0/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Break](When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)</text>
+    </card>
+    <card>
+      <name>Yoshitsune</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/372/image_en/29487c5e-e843-4445-94c7-9d60f6fd9f19.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/671/image_en/ab0f23f4-a573-4dc4-b78e-64605a78488d.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Heroic Spirit/Genji</type>
+      <pt>20/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Switch target enemy servant.</text>
+    </card>
+    <card>
+      <name>Firewheel</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/373/image_en/1946ef7d-ce53-427e-82a1-358215123798.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/673/image_en/b6f0266c-079a-4528-9b79-df6654406699.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Youkai</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Break](When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Enter] ⇒ Destroy target enemy servant with a cost of 3 or less.</text>
+    </card>
+    <card>
+      <name>Salamander</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/374/image_en/cc2881c4-2287-4e1c-94b2-e0caa99dab40.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/674/image_en/3bc50be3-e396-4633-b534-896ceb5c1bec.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>40/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Destroy target rested enemy servant.(When this servant enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Furious Dragon</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/375/image_en/5e95e28d-597c-40d0-b584-604ce5cad5f9.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/676/image_en/77f05f8a-a19f-446c-a93a-db66867f3ad1.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Servant - Dragon</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+This servant gains +500 ATK and DEF for each allied Ignus caster.</text>
+    </card>
+    <card>
+      <name>Kindle the Spirit</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/376/image_en/7566b908-7c12-461d-9a53-49f203d94bac.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/678/image_en/2ba4a7c3-e08a-4759-8955-2973220d1114.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Target allied servant gains +2000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Fire Arrow</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/377/image_en/10154da8-4ddc-4c4b-82da-d377204e961e.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/679/image_en/191e4f9a-4e5e-4d52-8a29-46e421440143.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Destroy target enemy servant with a cost of 4 or less.</text>
+    </card>
+    <card>
+      <name>Incite Ferocity</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/378/image_en/1c088d27-cb9e-4cd2-86ff-849d9ed93fe3.jpg">SD01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/680/image_en/0120b55b-64e9-44e3-a7e7-098572d9a87e.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Target allied servant gains +4000 ATK and [Double Corrupt] until end of turn. (When this servant corrupts, it corrupts two orbs instead of one.)</text>
+    </card>
+    <card>
+      <name>Iroha Maltz Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/37/379/image_en/67e96e52-64d0-4202-8037-8ee828aba21b.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/711/image_en/47c1c433-9bd6-4b48-b882-ab0cf37345a8.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Reverse target allied Flower.</text>
+    </card>
+    <card>
+      <name>Eli Superior Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/380/image_en/eb6995ee-4b41-47d4-9539-b300237f3646.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/712/image_en/386c4e35-e957-4f99-be29-a0030cce0f4f.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish a recovered Insect or Flower: Destroy target enemy servant if it has a cost equal to or less than the cost of the Insect or Flower banished for this ability's cost.</text>
+    </card>
+    <card>
+      <name>Glory Butterfly Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/381/image_en/af360747-f222-410f-9f2e-1de1b895c0cb.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/713/image_en/2a2bcf05-b0e1-40b2-a203-5b033774ec2d.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/16/162/image_en/c8b78a7d-2aa9-49ff-bcbf-7bce6e326ae1.jpg">PR</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target allied servant gains +500 DEF until end of turn.</text>
+    </card>
+    <card>
+      <name>Glory Butterfly Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/382/image_en/5a335160-5ce2-4bfb-8804-1a5c42711f5e.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/714/image_en/638a34f9-0458-4036-9f39-19888e5f932d.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish another "Glory Butterfly": Destroy target servant with a cost of 3 or less.
+[Rest]: Target allied servant gains +1000 DEF until end of turn.</text>
+    </card>
+    <card>
+      <name>Princess Papillon Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/383/image_en/d2fd408f-9758-4ca1-abe7-10592977433e.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/715/image_en/5f6da6b9-2b04-442b-a2a3-b670e5011ab4.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Put target Insect in an allied graveyard into your hand.</text>
+    </card>
+    <card>
+      <name>Miu Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/384/image_en/c32ce4f2-0fff-4839-91da-35ca968aaf25.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/716/image_en/637b106d-7960-4f4d-b367-00cbe5bef907.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an allied Insect was destroyed this turn.</text>
+    </card>
+    <card>
+      <name>Louise Bayli Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/385/image_en/cf55a642-9639-46b6-9ed5-1901370e40a3.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/717/image_en/1771c50a-a00a-4d7a-8672-d0e5fe637f5a.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if you played a spell by its [Break] ability this turn.</text>
+    </card>
+    <card>
+      <name>Loura Harie Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/386/image_en/a239ea9e-b477-483c-a6c8-a4fa26b3c6dc.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/718/image_en/de08af27-5bc2-4f09-8db9-025a4fa3c526.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/82/820/image_en/0fc5daef-5884-4a13-89fb-3e786f5880d1.jpg">BP01S</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if two or more allied servants attacked this turn.</text>
+    </card>
+    <card>
+      <name>Bombastic Lily</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/387/image_en/4c12d5b1-034b-4dbb-9847-d050cbfcc4b6.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/719/image_en/10484e92-aa32-4add-800a-ccaf6f617cba.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Flower</type>
+      <pt>0/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Spiteful Clam</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/388/image_en/203204d4-de80-44a0-986e-c78a1d2824d2.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/720/image_en/31ed427b-ea6f-4ca3-b48b-d78a0b8cb3ca.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Insect</type>
+      <pt>5/0</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Impudent Swallowtail</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/38/389/image_en/7d8c78d6-ab7c-43e6-921a-5f4bceed4ab4.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/721/image_en/70a0cdc6-184d-4b5c-af24-81ed243a6325.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Insect</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Rose of Insolence</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/390/image_en/d536a314-4727-4ec5-a6da-3f923d23d7b8.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/722/image_en/e408e645-6f61-4426-a512-d54ed25ecd5b.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Flower</type>
+      <pt>0/20</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Sneering Orchid</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/391/image_en/5de51cad-f2b7-4f6b-98f9-0c283b5b687d.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/723/image_en/aa42d212-8f4d-47ec-98fa-c8f529571775.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Flower</type>
+      <pt>0/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)</text>
+    </card>
+    <card>
+      <name>Tokitada</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/392/image_en/702cb47c-9f71-4a04-b1f9-ae78c332b77a.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/724/image_en/eefd07b0-ec3c-488b-be44-8d7d3cac984b.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Heroic Spirit/Heishi</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Each player banishes a non-Heishi servant.</text>
+    </card>
+    <card>
+      <name>Tactless Butterfly</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/393/image_en/1436f0f8-867a-415f-8b85-f7e30c4df7b8.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/725/image_en/e365ecec-8902-4924-b006-b758bf34c3b9.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/622/image_en/86f0c1fe-dd83-452c-8fd0-676be42eb32b.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Insect</type>
+      <pt>20/0</pt>
+      <tablerow>3</tablerow>
+      <text>This card cannot be attacked while rested.
+This card may attack enemy players even if there are reversed enemy servants.</text>
+    </card>
+    <card>
+      <name>Ferocious Mantis</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/394/image_en/b36537e0-9f23-421f-9f2a-3d2061dff9ff.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/727/image_en/ad493173-8830-411d-9b01-956e78f56f8b.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/623/image_en/0813ef69-4c72-4805-b091-864bbc4190c0.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Insect</type>
+      <pt>20/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Enter] ⇒ Destroy target enemy servant with a cost of 3 or less. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Prideful Peafowl</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/395/image_en/35625708-e5d7-4e68-9518-990611784d6b.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/728/image_en/5d6e8204-67b3-4535-b4b9-bd89786ecf24.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>40/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Target enemy player banishes a servant. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Griphon</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/396/image_en/49c6fd55-45df-43fa-a344-1291dfcd4c1f.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/731/image_en/8557f3d1-814b-4064-ba33-e511422f35e5.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>40/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+[Enter] ⇒ Destroy target rested enemy servant.</text>
+    </card>
+    <card>
+      <name>Proclamation of Life and Death</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/397/image_en/39b43d3a-3c66-4031-aace-c7804da5f6c8.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/734/image_en/a91366bc-83ab-45c8-bd43-e796d9ddd3ab.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Target enemy player banishes a servant.</text>
+    </card>
+    <card>
+      <name>Grudge Attack</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/398/image_en/22cbf1ed-9dde-4916-b7f7-30d18931eecc.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/735/image_en/5d412847-6441-4985-af88-d8e7da60e848.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Destroy target rested enemy servant.</text>
+    </card>
+    <card>
+      <name>Forced Repatriation</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/39/399/image_en/3434cfba-9acc-421c-9274-f152a896fd77.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/736/image_en/a9bc2204-4623-43e1-adbf-b3f8673320e9.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Return target rested enemy servant to its owner's hand.</text>
+    </card>
+    <card>
+      <name>Kneel Before Me!</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/40/400/image_en/8a88488a-3543-4f39-8baf-2d74a2367d73.jpg">SD02</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/737/image_en/b8cd50f0-9199-481b-baa0-ac1f765c2f8c.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Rest all enemy servants.</text>
+    </card>
+    <card>
+      <name>Orange Peko Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/630/image_en/8f207d41-50b9-4b0d-bc73-0f6889f0b4b4.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Put target Sweets with a cost of 1 in an allied graveyard into your hand.</text>
+    </card>
+    <card>
+      <name>Orange Peko Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/631/image_en/7140cc49-b07e-4866-bded-9b8da3d7282f.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish another "Orange Peko": Put target Solis servant with a cost of 3 or less from an allied graveyard into the field.
+[Rest]: Put target Sweets with a cost of 2 or less in an allied graveyard into your hand.</text>
+    </card>
+    <card>
+      <name>Sunny Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/632/image_en/2ba4a77d-e43c-43a3-87c0-3b7fba991705.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an enemy discarded a card this turn.</text>
+    </card>
+    <card>
+      <name>Tricker Heather Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/633/image_en/8223de0d-361b-4165-8121-8e0cb0501876.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an allied spell or ability destroyed an enemy servant this turn.</text>
+    </card>
+    <card>
+      <name>Nebula Soleil Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/634/image_en/aac76dcc-19ea-45a6-8017-ccba8bc0a846.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>If you would play a caster as part of your call phase, you may play this card face up from an allied graveyard instead.</text>
+    </card>
+    <card>
+      <name>Mia Laira Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/635/image_en/4c3cc302-e3b1-4f79-b7eb-0aff985ac56d.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Target allied Sweets gains +1000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Mona Styla Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/636/image_en/49867148-e67e-4b5f-a836-bc908367b69b.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Put target servant from an enemy graveyard on the bottom of its owner's deck.</text>
+    </card>
+    <card>
+      <name>Lufue Yuni Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/637/image_en/62c62b34-c81f-4f6d-8a5f-defa7e0b31c6.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Put the top card of your deck into an allied graveyard. If that card is a Sweets, draw a card.</text>
+    </card>
+    <card>
+      <name>Crispy Cookie</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/638/image_en/5b6d194a-df51-4c6c-9689-4f0c47a76802.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Sweets</type>
+      <pt>5/0</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Bitter Chocolate</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/63/639/image_en/7e1bf7f7-9a5d-4ff2-97a9-315279172fb9.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Sweets</type>
+      <pt>0/20</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Melty Ice Cream</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/640/image_en/e4b64481-3eb9-4a40-b626-b0e8f03a2ed5.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Sweets</type>
+      <pt>30/0</pt>
+      <tablerow>3</tablerow>
+      <text>At end of turn ⇒ Banish this card.</text>
+    </card>
+    <card>
+      <name>Rich Macaron</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/641/image_en/ea96503e-f776-4d36-b1d4-91c08827cce9.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Sweets</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Juicy Crepe</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/642/image_en/abb1387a-be63-48e6-82c1-9eedb2bb6604.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Sweets</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Last Words] ⇒ Rest target enemy servant. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Strawberry on the Shortcake</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/643/image_en/6fb9508b-973a-4da3-b202-9d07892264a1.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Sweets</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Zhu Bajie</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/644/image_en/8f2898f1-c317-4d80-98a9-ab50bac3b88a.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Heroic Spirit</type>
+      <pt>20/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Search your deck for a Sweets with a cost of 1, reveal it and put it into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Toxic Turkey</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/645/image_en/3cff42fb-1574-422c-bf05-7b265f0be962.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/61/616/image_en/188689c2-67f9-42db-8aa8-a7de5ad12644.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>Whenever this card attacks an enemy servant ⇒ Destroy that enemy servant.</text>
+    </card>
+    <card>
+      <name>Hard Pancake</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/646/image_en/495631e4-a69c-4494-9f9a-d7b3f9a5d864.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/61/617/image_en/53ee98fb-3dc0-4d29-a5f4-0e35420f0ee9.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Sweets</type>
+      <pt>0/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Enter] ⇒ Put target servant in an allied graveyard into your hand. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Mixed Parfait</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/647/image_en/f19ba90f-342e-47c0-9fe0-ed50a9f0e22d.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Sweets</type>
+      <pt>40/40</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Banish an allied servant. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Afternoon Tea</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/648/image_en/d6b72b18-7cb6-490e-82e1-31c007e789ab.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Sweets</type>
+      <pt>40/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Put target Sweets with a cost of 1 from an allied graveyard into the field.</text>
+    </card>
+    <card>
+      <name>Cerberoast</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/64/649/image_en/5961dd6f-6696-498f-a7b3-3bf11ac37bc1.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+Whenever this card corrupts an orb ⇒ Target enemy player discards a card.</text>
+    </card>
+    <card>
+      <name>Bealzeborne, Demon of Gluttony</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/650/image_en/3455e778-d315-4ad4-974e-9505465c5a6a.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>7</manacost>
+      <cmc>7</cmc>
+      <type>Servant - Demon</type>
+      <pt>40/40</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+[Enter] ⇒ Destroy target enemy servant and target allied servant.</text>
+    </card>
+    <card>
+      <name>Evaporation</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/651/image_en/bd3bd5f1-f537-4785-94f5-b435d71bb5ce.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to play this card, banish an orb.
+Destroy target barrier.</text>
+    </card>
+    <card>
+      <name>Price of Overeating</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/652/image_en/dd4e6829-52cd-4012-9545-5aadcabeaeeb.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Draw four cards. Then discard four cards.</text>
+    </card>
+    <card>
+      <name>Carrion Scrounge</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/653/image_en/112572ff-882a-4bf8-bb0d-3a63056b297a.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Put target servant with a cost of 3 or less from an allied graveyard into the field.</text>
+    </card>
+    <card>
+      <name>Paper Eating Virus</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/654/image_en/431e60e4-9156-41b4-8ce5-766e592495c6.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Target enemy player discards two cards.</text>
+    </card>
+    <card>
+      <name>Total Eclipse</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/655/image_en/6a5c1d17-9f67-4bf7-bdb1-0b439c233a43.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Destroy target servant.</text>
+    </card>
+    <card>
+      <name>Sunbeam Roasting</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/65/656/image_en/033ba8b8-063a-46f4-aca4-066e1e040da9.jpg">BP01</set>
+      <color>Solis</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Barrier</type>
+      <tablerow>3</tablerow>
+      <text>At end of enemy turn ⇒ That enemy player discards a card.</text>
+    </card>
+    <card>
+      <name>Wandering Flames</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/672/image_en/0ddf9881-03c3-4b76-b927-ccfc0f76d005.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Youkai</type>
+      <pt>40/0</pt>
+      <tablerow>3</tablerow>
+      <text>At end of turn ⇒ Return this card to its owner's hand.</text>
+    </card>
+    <card>
+      <name>Asura, the Three Sided</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/675/image_en/03a6a87a-527d-49c3-9948-6943605c6c03.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Youkai</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>This card gains [Double Corrupt] as long as there are four or fewer allied orbs. (When this servant corrupts, it corrupts two orbs instead of one.)</text>
+    </card>
+    <card>
+      <name>Diablos the Deciever</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/67/677/image_en/14a2eb23-10c6-4b09-b0ea-3a06023fdb5a.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>7</manacost>
+      <cmc>7</cmc>
+      <type>Servant - Demon</type>
+      <pt>70/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+At end of turn ⇒ Return an allied caster from the field to its owner's hand.</text>
+    </card>
+    <card>
+      <name>Demonic Hellfire</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/681/image_en/523f8ad4-6b01-4075-b7a3-10eb24cbaa00.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Destroy all servants with a cost of 5 or less.</text>
+    </card>
+    <card>
+      <name>Flame of Indignation</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/682/image_en/8819c40f-be1a-4e7f-9b7a-340cf5d4290a.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Destroy target enemy servant with a cost of 6 or less.</text>
+    </card>
+    <card>
+      <name>World of Rage</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/683/image_en/ae6c850e-8799-4e95-abd3-b39fbe3b2d14.jpg">BP01</set>
+      <color>Ignus</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Barrier</type>
+      <tablerow>3</tablerow>
+      <text>Enemy servants enter the field recovered.
+Enemy servants cannot be switched except by spell or ability.</text>
+    </card>
+    <card>
+      <name>Kiberia Yosha Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/684/image_en/6ce0c577-4f21-47bc-93ea-740e3981bcfa.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target enemy servant gains -500 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Kiberia Yosha Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/685/image_en/36b244fb-cd58-4d8e-9ef4-fe639eef3536.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish another "Kiberia Yosha": Return target enemy servant with a cost of 4 or less to its owner's hand.
+[Rest]: Target enemy servant gains -1000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Sweet Pea Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/686/image_en/237826a9-03a3-4751-92e1-e96995e68541.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target allied servant loses [Slow Start] until end of turn.</text>
+    </card>
+    <card>
+      <name>Stella Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/687/image_en/574572e5-fa74-4db4-b472-7fa5ef1ddc2e.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Return target allied caster to its owner's hand.</text>
+    </card>
+    <card>
+      <name>Chain of Hearts Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/688/image_en/bd42a1fd-1d31-4cb3-851c-d59ee9eb173e.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an enemy servant was returned to its owner's hand from the field this turn.</text>
+    </card>
+    <card>
+      <name>Forre Mellow Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/68/689/image_en/c7570b80-8b34-430f-bfcd-04db54ba2d80.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if no allied spells have been played this turn. Play this ability only during your end phase, and only if you control two or more casters.</text>
+    </card>
+    <card>
+      <name>Ran Berfield Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/690/image_en/24bbb83c-4235-45a9-8ae6-475c30876633.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], return an allied servant to its owner's hand: Target allied servant gains +1000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Lily Verde Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/691/image_en/c4fb55f2-7293-4daf-9bb5-b51996cd5a47.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Target enemy servant gains [Slow Start] until end of turn.</text>
+    </card>
+    <card>
+      <name>Holy Monk</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/692/image_en/8f2ecb35-2ae9-4c3f-9e51-c9bf68a6a2e8.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Monk</type>
+      <pt>0/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Cactusman</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/693/image_en/f4730791-b88f-4612-b1c4-081357207854.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Plant</type>
+      <pt>20/10</pt>
+      <tablerow>3</tablerow>
+      <text>This card cannot attack enemy players.</text>
+    </card>
+    <card>
+      <name>Lively Monk</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/694/image_en/9649eb3a-124b-437a-a0d8-e26f4a206ce5.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Monk</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Venus Flytrap</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/695/image_en/76e5172b-a599-4bd2-932b-785e8519e3ec.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Insect</type>
+      <pt>0/5</pt>
+      <tablerow>3</tablerow>
+      <text>[Last Words] ⇒ Return target enemy servant that attacked this card this turn to its owner's hand. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Lazy Spirit</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/696/image_en/b08e26a7-92aa-4e7b-899c-cb7411d03af5.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Youkai</type>
+      <pt>10/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Slow Start] （This card cannot attack the turn it is played to the field.）</text>
+    </card>
+    <card>
+      <name>Unreliable Monk</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/697/image_en/56c60d9b-3227-4faa-858c-ea44369ff434.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Monk</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>At the start of your turn ⇒ Return this card to its owner's hand.</text>
+    </card>
+    <card>
+      <name>Harpy</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/698/image_en/99d5989f-6131-4af1-88f7-a64cec35050b.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/620/image_en/f0fe99e7-6631-4fee-bdf0-f5748dc26bcd.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Enter] ⇒ Return target servant with total cost 3 or less to its owner's hand. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Lethargic Bear</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/69/699/image_en/3915fc4f-9a74-47f5-b35a-34f44a6b53fd.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>40/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Slow Start] （This card cannot attack the turn it is played to the field.）</text>
+    </card>
+    <card>
+      <name>Ancient Tree</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/700/image_en/d07f1f4a-7799-4be3-9d76-ae16fa04bb0c.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Plant</type>
+      <pt>10/40</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Primal Sloth</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/701/image_en/acff0aa0-dbaa-4286-9ffe-8d8353697674.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/621/image_en/d871805c-1550-4efe-8cc8-4f9dfbba79a2.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>50/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Slow Start] （This card cannot attack the turn it is played to the field.）
+Whenever this card destroys an enemy servant by battle ⇒ Recover this card. Play this ability only once per turn.</text>
+    </card>
+    <card>
+      <name>Wooden Bear</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/702/image_en/0599f45f-5ee1-4daa-994c-7be311879cff.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+[Enter] ⇒ Return target servant to its owner's hand.</text>
+    </card>
+    <card>
+      <name>Phoenix</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/703/image_en/0663b187-6a99-40d7-91e1-5408d2733370.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>At end of turn ⇒ If this card was put into a graveyard from the field this turn, put it into the field under its owner's control.</text>
+    </card>
+    <card>
+      <name>Belfegozz, Beast of Indolence</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/704/image_en/93595e35-f108-4eac-af02-e5e5577bab4d.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>7</manacost>
+      <cmc>7</cmc>
+      <type>Servant - Demon</type>
+      <pt>40/50</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+Enemy players can't play non-aether activated abilities of casters.</text>
+    </card>
+    <card>
+      <name>Exorcism</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/705/image_en/2f14e01a-0d85-4e65-a347-6c4d3e4dc180.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Destroy target barrier.</text>
+    </card>
+    <card>
+      <name>Do Your Best!</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/706/image_en/d839bb54-e3bd-457d-bf97-a75a154ffe56.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Put the top card of your deck into an allied caster zone face down and rested, as a caster.</text>
+    </card>
+    <card>
+      <name>Procrastination</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/707/image_en/d8d14f7e-259d-4725-b2b5-c8202732cff9.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Return all servants to their owners' hands.</text>
+    </card>
+    <card>
+      <name>Come Back Again Sometime</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/708/image_en/9888640a-971b-4d03-a1a1-56842b1b413d.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Return target servant to its owner's hand.</text>
+    </card>
+    <card>
+      <name>A Leisurely Pace</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/70/709/image_en/63cae020-b9cd-4121-ac69-a5ed41e6ec99.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Return two target servants to their owners' hands.</text>
+    </card>
+    <card>
+      <name>Sophmore Slump</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/71/710/image_en/98f43b45-edfe-45b3-a0f3-debdcd5f2dfa.jpg">BP01</set>
+      <color>Silva</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Barrier</type>
+      <tablerow>3</tablerow>
+      <text>All servants gain [Slow Start]. （This card cannot attack the turn it is played to the field.）</text>
+    </card>
+    <card>
+      <name>Pompous Delphinium</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/726/image_en/ba844fd0-6b24-4be3-977e-51a09f840afc.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Flower</type>
+      <pt>0/40</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Buzen Bou TENGU48</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/72/729/image_en/7d297aa6-a691-4696-9be6-239a82a75ec7.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Tengu</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>At the start of your turn ⇒ Return this card to its owner's hand.
+[Enter] ⇒ Put target conjure in an allied graveyard into your hand.</text>
+    </card>
+    <card>
+      <name>Vagrant Lion</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/730/image_en/4bd09bed-82f4-4089-9254-9a37e682758e.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>40/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Destroy target enemy servant if you control no other allied servants. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Lucifell, Flawless Beauty</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/732/image_en/4192745d-c045-47e5-8c30-4834f526ce62.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>7</manacost>
+      <cmc>7</cmc>
+      <type>Servant - Demon</type>
+      <pt>50/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+This card cannot be attacked while rested.
+This card may attack enemy players even if there are reversed enemy servants.</text>
+    </card>
+    <card>
+      <name>Sudden Evacuation </name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/733/image_en/1b405939-e1ab-4ac2-b0ee-e142349f684e.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Return target allied servant to its owner's hand.</text>
+    </card>
+    <card>
+      <name>Barrier of Arrogance</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/738/image_en/ad6b13d8-a223-4992-b21b-13405b8347ff.jpg">BP01</set>
+      <color>Terra</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Barrier</type>
+      <tablerow>3</tablerow>
+      <text>Rested allied servants can't be attacked.</text>
+    </card>
+    <card>
+      <name>Ayutaila Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/73/739/image_en/aea0d090-e1ca-4ca1-abf4-73915140bba1.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/82/821/image_en/853abf49-7363-4a29-b325-d1930e407a6d.jpg">BP01S</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Draw a card.</text>
+    </card>
+    <card>
+      <name>Grace Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/740/image_en/cf83ecf8-3832-4c44-806c-514497c69fd8.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Whenever an allied Jewelry enters the field ⇒ Recover this card.</text>
+    </card>
+    <card>
+      <name>Glow Desire Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/741/image_en/04913c48-289c-496c-989c-0aaafadfa421.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target servant with ATK greater than its printed ATK gains +1000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Twinkle Charm Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/742/image_en/1c96f4e8-0768-4aa2-88fa-3b00254cc6f6.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if you drew a card by the effect of a conjure this turn.</text>
+    </card>
+    <card>
+      <name>Rafina Soa Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/743/image_en/3cb2e71b-344f-4db0-b984-a6c7dfd4366a.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Recover target Lv1 allied caster.</text>
+    </card>
+    <card>
+      <name>Luna Esperansa Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/744/image_en/6057979f-f75c-4b32-b680-73f6c71caf26.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if you discarded a card this turn.</text>
+    </card>
+    <card>
+      <name>Ruka Eremi Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/745/image_en/182b24c8-9b3e-43c8-82ae-44db7979404c.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target allied servant gains +100 ATK for each card in your hand until end of turn.</text>
+    </card>
+    <card>
+      <name>Ruka Eremi Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/746/image_en/5ebf7f70-6d1f-4dcf-87e2-0470ea97bdce.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Ruka Eremi": Draw a card.
+[Rest]: Target allied servant gains +200 ATK for each card in your hand until end of turn.</text>
+    </card>
+    <card>
+      <name>Pentachi</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/747/image_en/873f7e91-5568-4b1e-9c53-4178627f5e04.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Youkai</type>
+      <pt>5/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Look at target enemy orb, then return it. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Birdog</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/748/image_en/6967a009-d1ac-4c78-b47f-06ce351944d6.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Youkai</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>White Fox</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/74/749/image_en/a30e9081-c0b8-4961-beae-c144036da79c.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/624/image_en/81d5890f-b3f0-4f61-ac26-5651302d5984.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Youkai</type>
+      <pt>0/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Destroy target barrier. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Gadfly Wasp</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/750/image_en/5332b311-207c-45a5-a0a4-e1e4dcb15bb8.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>10/20</pt>
+      <tablerow>3</tablerow>
+      <text>Discard a card: This card gains +1000 ATK until end of turn. Play this ability only during an allied turn.</text>
+    </card>
+    <card>
+      <name>Ouroboros</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/751/image_en/42bde258-2215-4c85-b1a8-bd36f36d50f5.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/625/image_en/26580f36-2847-477d-b533-d127b84fc80a.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>20/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Enter] ⇒ Draw a card. Then discard a card. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Infini-Coin</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/752/image_en/86dc07c5-9c99-4b2c-a644-c329c388864f.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Jewelry</type>
+      <pt>5/5</pt>
+      <tablerow>3</tablerow>
+      <text>[Last Words] ⇒ Return this card from the graveyard to its owner's hand. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Extravagant Necklace</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/753/image_en/46cfcbb8-7cae-4a92-9a81-51a5c3f1e2a9.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Jewelry</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Last Words] ⇒ Put a card from your hand into an allied orb zone face down, as an orb. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Double Rabbit</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/754/image_en/115d66b0-abba-46a0-a98a-ba073e30cbe1.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>Discard a card: This card gains +2000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Greedy Vase</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/755/image_en/719e525b-0915-4504-9727-44d01f38f17c.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Jewelry</type>
+      <pt>20/40</pt>
+      <tablerow>3</tablerow>
+      <text>Whenever this card switches ⇒ Draw a card. (When this card is changed from non-reversed to reversed, or from reversed to recovered ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Gem Pouch</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/756/image_en/c358f4f4-9764-482c-9db7-6a59f103b440.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Jewelry</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Search your deck for a Jewelry, reveal it and put it into your hand. Then shuffle your deck. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Split Eagle</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/757/image_en/af3940b6-121e-4bf8-852e-9b2dd1082fad.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Last Words] ⇒ Put up to two servants with a cost of two or less each from your hand into the field.</text>
+    </card>
+    <card>
+      <name>Goblin Merchant</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/758/image_en/8ea60cb8-ab9e-47ef-b762-472f130e6a3a.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>50/50</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+Discard two cards: Return this card to its owner's hand. Enemy players may also play this ability.</text>
+    </card>
+    <card>
+      <name>Bamanon, Source of Greed</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/75/759/image_en/bcec1b50-3d1f-4244-a05f-e3a923203cb1.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>7</manacost>
+      <cmc>7</cmc>
+      <type>Servant - Demon</type>
+      <pt>40/40</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+[Enter] ⇒ Put up to two cards from your hand face down into an allied orb zone as orbs.</text>
+    </card>
+    <card>
+      <name>Magic Paper</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/760/image_en/35b47b59-1159-4680-9b0c-d03251140d15.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.</text>
+    </card>
+    <card>
+      <name>Expensive Jar</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/761/image_en/fd5dda51-4ddf-411e-8de7-ac39bceb986d.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Draw three cards.</text>
+    </card>
+    <card>
+      <name>Compensation</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/762/image_en/b8df19c8-12c1-4380-9f0f-1f204f8f0daf.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Put the top card of your deck into an allied orb zone face down, as an orb.</text>
+    </card>
+    <card>
+      <name>Compulsory Journey</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/763/image_en/07684a2f-8608-490c-b865-5d10526fecc3.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Target enemy player banishes a servant if another servant they controlled was put from the field into a graveyard this turn.</text>
+    </card>
+    <card>
+      <name>Servant Seal</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/764/image_en/50db6425-0ccf-4743-a33c-ce47f5deb3f2.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Put target servant into its owner's orb zone face down, as an orb.</text>
+    </card>
+    <card>
+      <name>Shopping Plaza</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/765/image_en/31c2058e-8719-42f6-a0b5-a40e324df709.jpg">BP01</set>
+      <color>Luna</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Barrier</type>
+      <tablerow>3</tablerow>
+      <text>Whenever an allied servant corrupts an orb ⇒ Draw a card.</text>
+    </card>
+    <card>
+      <name>Karen Urania Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/766/image_en/05258fe7-1c65-4ace-950b-abdc66cfed2a.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an allied servant was destroyed by non-battle this turn.</text>
+    </card>
+    <card>
+      <name>Canal Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/767/image_en/e8d7df50-e665-4878-a7b8-27493367fe1f.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>You may control two or more casters with the same name as this card.</text>
+    </card>
+    <card>
+      <name>Saira Treverse Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/768/image_en/98e4e915-0250-413e-bb36-9c9d13880abb.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if enemy servants attacked twice or more this turn.</text>
+    </card>
+    <card>
+      <name>Zoi Russel Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/76/769/image_en/55bd4ef4-90b2-4589-851b-1ba8e80ff37b.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an allied servant was destroyed in battle this turn.</text>
+    </card>
+    <card>
+      <name>Chakoru Senti Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/770/image_en/86fd41fb-6cd1-4a89-862f-9b34e0df7c92.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target enemy servant gains -500 DEF until end of turn.</text>
+    </card>
+    <card>
+      <name>Chakoru Senti Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/771/image_en/a6d943aa-536d-46cb-8d93-fcd0f91dfe83.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Chakoru Senti": Search your deck for a servant, reveal it and put it into your hand. Then shuffle your deck.
+[Rest]: Target enemy servant gains -1000 DEF until end of turn.</text>
+    </card>
+    <card>
+      <name>Deshi Lion Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/772/image_en/ced91001-1274-40bf-8e50-037c14a79a56.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Put target Supplies in an allied graveyard into your hand.</text>
+    </card>
+    <card>
+      <name>Hilde Willow Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/773/image_en/775619b3-78fe-4387-a561-66bf2c81d810.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Look at the top card of an enemy deck. You may put that card on the bottom of that enemy deck.</text>
+    </card>
+    <card>
+      <name>Wise Pencil</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/774/image_en/5a97a03d-e7d6-43b3-ab78-8b438d45fb42.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Supplies</type>
+      <pt>5/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Look at the top card of your deck, then return it. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Witty Mechanical Pencil</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/775/image_en/63f48c77-1454-48b8-9636-e9946339a4d3.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Supplies</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[1]: This card gains +500 ATK until end of turn. Play this ability only during an allied turn.</text>
+    </card>
+    <card>
+      <name>Clever Set Square</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/776/image_en/f1e4d219-0d4b-4ac5-8358-266e18b43294.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Supplies</type>
+      <pt>5/5</pt>
+      <tablerow>3</tablerow>
+      <text>This card gains +1000 ATK while battling a Solis or Terra servant.
+This card gains +1000 DEF while battling an Ignus or Silva servant.</text>
+    </card>
+    <card>
+      <name>Brain Eraser</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/777/image_en/74e8e396-3b71-419b-a9e1-16ce936f53fc.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Supplies</type>
+      <pt>0/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Last Words] ⇒ Destroy target barrier. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Jealous Hera</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/778/image_en/50fb9533-2871-44eb-af09-24741a0d723d.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Demon</type>
+      <pt>20/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Target enemy player banishes a servant if they control more servants than there are allied servants.</text>
+    </card>
+    <card>
+      <name>Spirit Scissors</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/77/779/image_en/55893c4c-924e-4e78-9ffa-ecfc843796e5.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Supplies</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Last Words] ⇒ Destroy target enemy servant with a cost of 2 or less. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Capable Compass</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/780/image_en/9efe62db-139f-4ce3-936a-552ea6235336.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/626/image_en/25e0f587-4d86-4e6a-b959-783adff22e5f.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Supplies</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Enter] ⇒ Rest or reverse target servant. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Intelligent Stapler</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/781/image_en/84d80d4a-fcfc-4378-ad4a-a5d055a403f0.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/627/image_en/a4584df8-6e95-49de-99d8-4ed1358223c1.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Supplies</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Enter] ⇒ Choose two target servants an enemy player controls. That enemy player banishes one of them. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Resourceful Box Cutter</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/782/image_en/4f040768-1c90-49e5-90cb-5fb9c4a6ef77.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Supplies</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>[1]: This card gains +1000 ATK until end of turn. Play this ability only during an allied turn.</text>
+    </card>
+    <card>
+      <name>Brain Sharpener</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/783/image_en/d04619d2-cbcc-4697-b567-26fd25260603.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Supplies</type>
+      <pt>10/40</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Put up to two target Supplies with a cost of 1 each from an allied graveyard into the field.</text>
+    </card>
+    <card>
+      <name>Snake-Eye</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/784/image_en/ae7a97c5-89ed-405b-a244-8f744019f0e4.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Supplies</type>
+      <pt>20/40</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Target enemy player reveals their hand. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Mr. Maid</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/785/image_en/e9f12e5a-f97c-4a37-baea-aac9ca87acb8.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Search your deck for a card. Then shuffle the rest of your deck and put that card on top of it.</text>
+    </card>
+    <card>
+      <name>Leviathos, Spirit of Envy</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/786/image_en/93407ec9-41a0-4aba-8e08-f83b27159ef2.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>7</manacost>
+      <cmc>7</cmc>
+      <type>Servant - Demon</type>
+      <pt>40/50</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+Whenever this card switches ⇒ Search your deck for a servant. Reveal it and put it into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Call Forth</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/787/image_en/03d6fdfc-a3ec-46f3-8033-f72b2032bbfa.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Search your deck for a Lv1 caster, reveal it and put it into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Hit the Weak Point</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/788/image_en/f15a3114-d7f7-4601-98da-a38cfb57d08e.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Destroy target enemy servant with a cost of 2 or less.</text>
+    </card>
+    <card>
+      <name>Brain Embody</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/78/789/image_en/0cce86d0-7a5b-46c9-99ac-62433f26066c.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Search your deck for a servant, reveal it and put it into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Critical Hit</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/790/image_en/16811ef5-5068-434f-afe0-5b4155034483.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Quickcast] (You may play this card any time you have priority.)
+Destroy target enemy servant with a cost of 5 or less.</text>
+    </card>
+    <card>
+      <name>Servant Exchange</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/791/image_en/4fe2c095-c084-49ff-9dcf-e05a099cd54c.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Exchange control of target allied servant and target enemy servant.</text>
+    </card>
+    <card>
+      <name>Sage Advice</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/792/image_en/f37e6602-f52d-4f85-8c37-184128350dd2.jpg">BP01</set>
+      <color>Aqua</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Barrier</type>
+      <tablerow>3</tablerow>
+      <text>If you would draw a card, you may instead look at the top three cards of your deck. If you do, choose one from among them and put it into your hand and put the rest on the bottom of your deck in any order.</text>
+    </card>
+    <card>
+      <name>Almeria Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/793/image_en/aacdf46a-9798-4ba0-b070-8fad470b8138.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish a Cosmetics: Draw a card.</text>
+    </card>
+    <card>
+      <name>Clara Shurei Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/794/image_en/7706b19e-24ee-450a-9d3e-2c9112eee6e2.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Reverse target enemy servant with a cost of 3 or less.</text>
+    </card>
+    <card>
+      <name>Sherry Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/795/image_en/becc8d44-a2a3-4796-b675-817f028ece1a.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an allied servant switched this turn.</text>
+    </card>
+    <card>
+      <name>Citra Cayce Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/796/image_en/256989b0-3d7c-4ea7-9c70-40cd40ba2fff.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], return a Lv1 allied caster to its owner's hand: Target allied Cosmetics gains +1000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Chaleur Suu Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/797/image_en/076f6fad-9df9-4d5e-b447-0205e9ff6b2e.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/82/822/image_en/85cfa724-74f6-48ce-ac44-9beaa4c26a99.jpg">BP01S</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Recover target enemy servant with a cost of 3 or less.</text>
+    </card>
+    <card>
+      <name>Cestria Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/798/image_en/cd55c536-1282-4e18-a83c-66e64efe1e05.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Rest target Lv1 enemy caster. Play this ability only during an enemy battle phase.</text>
+    </card>
+    <card>
+      <name>Maisey Queen Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/79/799/image_en/5e5f9800-5657-4d00-9165-f0d653020b09.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Reveal the top card of your deck. If it's a Cosmetics with a cost of 1, put it into the field.</text>
+    </card>
+    <card>
+      <name>Maisey Queen Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/800/image_en/aff29be6-50d7-4393-be83-2842e4efcde5.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Maisey Queen": Reverse target servant.
+[Rest]: Reveal the top card of your deck. If it's a Cosmetics with a cost of 2 or less, put it into the field.</text>
+    </card>
+    <card>
+      <name>Irresistible Rouge</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/801/image_en/e05475b0-8d32-4537-a168-ada80cb26dac.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/628/image_en/23e07f0f-8367-4d72-9f69-ef11c93c8763.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Cosmetics</type>
+      <pt>5/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Look at target allied orb, then return it. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Bouncing Perfume</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/802/image_en/434a887e-f286-4fff-8051-576fd94f35cb.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Cosmetics</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>At end of turn ⇒ Return this card to its owner's hand if it battled this turn.</text>
+    </card>
+    <card>
+      <name>Dirty Mascara</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/803/image_en/924fe577-3b69-486d-9e92-db20ae9514a8.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Cosmetics</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Cloudy Powder Brush</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/804/image_en/fd7ff339-4d32-4a14-a2df-0125f5235022.jpg">BP01</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/62/629/image_en/13beeead-174d-4833-9d5b-f06d080ee7fe.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Cosmetics</type>
+      <pt>0/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)</text>
+    </card>
+    <card>
+      <name>Chaos Curler</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/805/image_en/7655a743-6972-487b-921c-d0760af8e50d.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Cosmetics</type>
+      <pt>20/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Messy Compact</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/806/image_en/653c5fda-9bb7-48d6-98bb-e57e96d76639.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Cosmetics</type>
+      <pt>10/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Last Words] ⇒ Recover target Lv1 allied caster. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Komachi</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/807/image_en/076b7abf-80d4-4471-9652-a891aad6520d.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Heroic Spirit</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Last Words] ⇒ Put the top card of your deck into an allied caster zone face down, as a caster.</text>
+    </card>
+    <card>
+      <name>Heartbreak Cupid</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/808/image_en/4bd72463-9448-43f2-822d-e892b3b412a3.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Angel</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+[Enter] ⇒ Reverse target servant. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Enticing Nightwear</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/80/809/image_en/46716df4-31d0-4c4d-8f8f-a4b2f64703d5.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Youkai</type>
+      <pt>30/10</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Cosmetic Doctor, Sakasu</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/810/image_en/ab32ae2a-321b-4e58-9f68-5eac7b91887e.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Youkai</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Banish another allied servant. If you do, reveal cards from the top of your deck until you reveal a servant. Put the servant revealed this way into the field and shuffle all other cards revealed this way into your deck.</text>
+    </card>
+    <card>
+      <name>Pumpkin Chariot</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/811/image_en/4d70032e-bf88-483a-809d-e7ae60489bc1.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Youkai</type>
+      <pt>30/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+At end of turn ⇒ Return this card to its owner's hand if it battled this turn.</text>
+    </card>
+    <card>
+      <name>Succubus</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/812/image_en/35c99d66-b709-4c1f-8610-eec14924d3b3.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>30/40</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+[Enter] ⇒ Reverse target non-reversed enemy servant, or rest target reversed enemy servant.</text>
+    </card>
+    <card>
+      <name>Ashmodae, Apparition of Seduction</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/813/image_en/93ada94b-6d2f-45e3-8af2-baf1be30a3f8.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>7</manacost>
+      <cmc>7</cmc>
+      <type>Servant - Demon</type>
+      <pt>50/40</pt>
+      <tablerow>3</tablerow>
+      <text>[Double Corrupt] (When this servant corrupts, it corrupts two orbs instead of one.)
+Enemy servants cannot be switched except by spell or ability.</text>
+    </card>
+    <card>
+      <name>I'll Be Right Over</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/814/image_en/2cb163aa-aefa-48fa-8c94-ff41aede7254.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Rest target enemy servant.</text>
+    </card>
+    <card>
+      <name>Wait There, Okay?</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/815/image_en/f2b4d314-9a24-44c3-a332-1104c8230395.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Reverse target enemy servant.</text>
+    </card>
+    <card>
+      <name>Play Nice</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/816/image_en/5245e44f-1d42-4045-a595-09a56a29d1f7.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+You can't be attacked this turn.</text>
+    </card>
+    <card>
+      <name>Be Born Again As A Caster</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/817/image_en/9bf7a0b1-51fe-4896-9cb9-86aea1ecfcc8.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Break] (When this card is put into your hand from an orb zone, you may play it immediately without paying its cost.)
+Put target servant into it's owner's caster zone face down, as a caster.</text>
+    </card>
+    <card>
+      <name>Be Mine</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/818/image_en/8e4da6e7-141b-4e9a-9a77-b8c9fb007f06.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Gain control of target enemy servant.</text>
+    </card>
+    <card>
+      <name>Back to Basics</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/81/819/image_en/3694985b-081a-4b4f-a19f-a80ac5ca7495.jpg">BP01</set>
+      <color>Aes</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Barrier</type>
+      <tablerow>3</tablerow>
+      <text>All casters lose all abilities and gain "[Rest]: This card produces a number of aether of this card's element equal to it's level plus 1."</text>
+    </card>
+    <card>
+      <name>Faare・A・Popierre Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/82/823/image_en/341b9793-7fb7-487f-a5a4-fe6f46b7af68.jpg">BP01S</set>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/41/416/image_en/2a61c9a5-7397-4503-b256-4d2d36535722.jpg">PR</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Put target Cosumetics in an allied graveyard on top of your deck.</text>
+    </card>
+    <card>
+      <name>Aria Citrus Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/530/image_en/cecb793a-c11b-4a9d-a095-4099211c9a3b.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish this card: Search your deck for a Lv1 card named "Kiro Centura" and put it into the field. Then shuffle your deck. Play this ability only if you don't control a card named "Kiro Centura".</text>
+    </card>
+    <card>
+      <name>Gentry Gold Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/531/image_en/e4d4ec02-f34a-4865-9247-8c0c6dc1ff8c.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Reveal the top card of your deck. If it's a Genji, put it into your hand. Otherwise, put it into an allied graveyard.</text>
+    </card>
+    <card>
+      <name>Lilia Chocolate Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/532/image_en/1a191206-a03b-44eb-a324-eade6f480299.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Remove a number of Sweets in an allied graveyard from the game equal to the cost of target enemy servant. If you do, destroy that servant. Play this ability only during an allied main phase.</text>
+    </card>
+    <card>
+      <name>Sunny Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/533/image_en/a0260894-e6d8-4931-b189-dc8a7a0ae0ca.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Sunny": Target enemy player discards a card. Play this ability only during main timing.
+[Rest]: Put target servant with a cost of 3 or less from an enemy graveyard into an allied servant zone if that servant was discarded from an enemy hand this turn.</text>
+    </card>
+    <card>
+      <name>Tomoe</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/534/image_en/4da662f0-1f42-4180-96ff-4f8a34cc92dc.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Heroic Spirit/Genji</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Search your deck for up to four Genji servants not named "Tomoe" and reveal them. Then shuffle the rest of your deck and put the revealed cards on top of your deck in any order.</text>
+    </card>
+    <card>
+      <name>Yoshinaka</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/535/image_en/dc8d5a91-876e-4de4-88a2-3f84994974e2.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Heroic Spirit/Genji</type>
+      <pt>20/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Last Words] ⇒ Put target Genji not named "Yoshinaka" from an allied graveyard into your hand.</text>
+    </card>
+    <card>
+      <name>P?tissier</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/536/image_en/300db5e4-c5b7-4787-867f-672fb05c7743.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Sweets</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Target enemy player discards two cards.</text>
+    </card>
+    <card>
+      <name>Gyoza Tiger</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/537/image_en/0e113331-17cf-46ba-ba4a-cb5e3f36a92c.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>40/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Last Words] ⇒ Destroy target servant.</text>
+    </card>
+    <card>
+      <name>Lapse of Memory</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/538/image_en/4fd5c824-d421-4368-b516-7283fa496acf.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Target enemy player reveals their hand. Choose a conjure card. They discard that card.</text>
+    </card>
+    <card>
+      <name>Swallow Whole</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/53/539/image_en/948d80dc-655e-4a7c-9f05-d318ab98841e.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Destroy target servant. If you do, banish a caster.</text>
+    </card>
+    <card>
+      <name>Dealings With Demons</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/540/image_en/638943c9-8886-4760-9201-5c17e3f79318.jpg">BP02</set>
+      <color>Solis</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to play this card, banish an orb.
+Search your deck for a card and put it into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Flambe Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/541/image_en/55ba94bc-d42a-484f-9690-6313f8cd37b2.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish this card: Search your deck for a Lv1 card named "Stella" and put it into the field. Then shuffle your deck. Play this ability only if you don't control a card named "Stella".</text>
+    </card>
+    <card>
+      <name>Vega Scarlet Star Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/542/image_en/a6ae8a57-e046-45bb-9b65-b4a447f7c240.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish an orb: Corrupt target orb.</text>
+    </card>
+    <card>
+      <name>Risa Tarivan Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/543/image_en/13c9e679-230d-4858-baf0-3e04f5792c63.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target Genji gains +1000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Carella Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/544/image_en/ccb530f5-9449-47ab-b336-1a50e91ea50d.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Carella": Target allied servant gains +1000 ATK until end of turn.
+[Rest], discard a caster: Destroy target enemy servant with a cost of 2 or less.</text>
+    </card>
+    <card>
+      <name>Sun Wukong</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/545/image_en/ad767f76-3a72-4d64-b3f3-5236d59144d3.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Heroic Spirit</type>
+      <pt>20/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Search your deck for a Youkai with a cost of 1, reveal it and put it into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Yoshitomo</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/546/image_en/3c2260e9-cbf8-48ef-9aee-e54f28e8f819.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Heroic Spirit/Genji</type>
+      <pt>30/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Reveal the top four cards of your deck. Put all revealed Genjis from among them into your hand. Put the rest on the bottom of your deck in any order. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Yoritomo</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/547/image_en/e3891b75-6d1a-43f2-97ea-f8192120dd68.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Heroic Spirit/Genji</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Search your deck for up to two Genjis with a cost of 1 and put them into the field. Then shuffle your deck. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>High Priest TENGU48</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/548/image_en/d5ecfbde-41f6-46ef-83e4-e6c9138bdafa.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Tengu</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>At end of turn ⇒ Put this card into its owner's hand.
+[Enter] ⇒ Rest all reversed enemy servants and reverse any non-reversed enemy servants.</text>
+    </card>
+    <card>
+      <name>Raging Flame Counterattack</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/54/549/image_en/72ec1578-2405-42d9-9b19-b4665eb7e7e7.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Destroy target enemy servant attacking you.</text>
+    </card>
+    <card>
+      <name>Clothing Combustion</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/550/image_en/5ddd4485-4476-4ea3-a345-c69e1db8d3d9.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Turn target face up Lv1 caster face down. If you do, that caster's controller puts the top card of their deck into their caster zone face down and rested, as a caster.</text>
+    </card>
+    <card>
+      <name>Passion of Genji</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/551/image_en/33904a2e-67ff-49f8-b189-d50e0bc3d747.jpg">BP02</set>
+      <color>Ignus</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Barrier</type>
+      <tablerow>3</tablerow>
+      <text>Banish a Genji: Corrupt target enemy orb. Play this ability only during main timing.</text>
+    </card>
+    <card>
+      <name>Solol Baton Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/552/image_en/05327e53-abac-476f-9a70-6e752822a9a5.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target enemy player discards a card if a servant was returned to a player's hand from a servant zone this turn.</text>
+    </card>
+    <card>
+      <name>Nadeshiko Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/553/image_en/c979d881-cede-4973-bbf0-16f2d3007044.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Produce one aether of any element. Spend this aether only to play Genji and Heishi servants.</text>
+    </card>
+    <card>
+      <name>Roseria Bell Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/554/image_en/3e20fe71-b305-4796-9de2-e2cb7072f353.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish this card: Search your deck for a Lv1 card named "Miu" and put it into the field. Then shuffle your deck. Play this ability only if you don't control a card named "Miu".</text>
+    </card>
+    <card>
+      <name>Chain of Hearts Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/555/image_en/18486bb9-8402-4381-b7a2-c56f45b44e0c.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Chain of Hearts": You may pay [2] less to play your next Silva conjure this turn. (The cost can't be reduced lower than 1.)
+[Rest]: Put a servant with a cost of 3 or less from your hand into the field if an enemy servant was put into its owner's hand from the field this turn.</text>
+    </card>
+    <card>
+      <name>Biwa Monk</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/556/image_en/5b471ecf-eaae-4d08-a372-a3fd42d44dae.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Monk/Heishi</type>
+      <pt>0/5</pt>
+      <tablerow>3</tablerow>
+      <text>[Slow Start] (This card cannot attack the turn it is played to the field.)
+[Last Words] ⇒ Search your deck for a Heishi not named "Biwa Monk", reveal it and put it into your hand. Then shuffle your deck. (When this card is put into a graveyard from the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Bear Boy</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/557/image_en/1241849f-4e44-4d8b-bb79-26a70b46e5d7.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>[Slow Start] (This card cannot attack the turn it is played to the field.)</text>
+    </card>
+    <card>
+      <name>Benkei</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/558/image_en/afab0ccf-fff2-495d-afc8-d66a6624a1d3.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Monk/Genji</type>
+      <pt>30/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Target enemy servant gains -2000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Tale of the Heike</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/55/559/image_en/74c0149f-b225-4fc4-8798-292b01fa1f1a.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your deck. You may reveal a Heishi from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
+    </card>
+    <card>
+      <name>Zero Motivation</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/560/image_en/191b68d4-65d2-42d3-95dc-5521eb8f99a6.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Return target servant to its owner's hand. That owner draws a card.</text>
+    </card>
+    <card>
+      <name>Just a Short Rest</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/561/image_en/23c39ef2-d913-4af2-a821-73e5b059d127.jpg">BP02</set>
+      <color>Silva</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Recovered and rested servants you control can't be attacked this turn.</text>
+    </card>
+    <card>
+      <name>San Tonal Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/562/image_en/be281b04-be10-4897-a8dd-670c927e5985.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish this card: Search your deck for a Lv1 card named "Luna Esperansa" and put it into the field. Then shuffle your deck. Play this ability only if you don't control a card named "Luna Esperansa."</text>
+    </card>
+    <card>
+      <name>Shura Psyche Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/563/image_en/817048a7-62d1-496d-a917-bccafd47ef93.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Target Heishi gains +1000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Haru Michelle Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/564/image_en/5338dd3c-c31e-426a-a1c5-a2ff6cf0bde5.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Corrupt target enemy orb if your opponent played a conjure this turn.</text>
+    </card>
+    <card>
+      <name>Miu Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/565/image_en/a2e7b909-106b-4a6a-bf11-36619255f8f5.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Miu": Put all cards in your hand on the bottom of your deck in any order. Then draw that many cards.
+[Rest]: Destroy target non-Insect servant if an Insect servant you control was destroyed this turn.</text>
+    </card>
+    <card>
+      <name>Tadamori</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/566/image_en/518809d1-a9eb-45db-93e0-e538087a9792.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Heroic Spirit/Heishi</type>
+      <pt>20/0</pt>
+      <tablerow>3</tablerow>
+      <text>[Hubris] (Cards with [Hubris] may attack enemy players even if there are reversed enemy servants.)</text>
+    </card>
+    <card>
+      <name>Kiyomori</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/567/image_en/842940c6-6188-4cdc-aa2f-0754c46c5c5e.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Heroic Spirit/Heishi</type>
+      <pt>40/20</pt>
+      <tablerow>3</tablerow>
+      <text>This card gains [Double Corrupt] and [Hubris] as long as you control another Heishi. (Cards with [Hubris] may attack enemy players even if there are reversed enemy servants.)
+This card cannot be attacked while rested.</text>
+    </card>
+    <card>
+      <name>Vampiress</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/568/image_en/e25e7636-22af-4d54-9245-405479ac778f.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Servant - Vampire</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>Whenever this card corrupts an orb ⇒ Put the top card of your deck into an allied orb zone face down, as an orb.</text>
+    </card>
+    <card>
+      <name>Praying to Deaf Ears</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/56/569/image_en/759b68f7-2213-4a22-ad3e-5f7a52dc96eb.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Cancel target ability of a caster.</text>
+    </card>
+    <card>
+      <name>Summoning Obstruction</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/570/image_en/75333186-df56-478c-b528-72ef7fc33388.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Return target servant spell to its owner's hand.</text>
+    </card>
+    <card>
+      <name>Heishi's Pride</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/571/image_en/cf4934ed-70f7-4664-be79-002f014f99b4.jpg">BP02</set>
+      <color>Terra</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Barrier</type>
+      <tablerow>3</tablerow>
+      <text>Heishi you control gain [Hubris] as long as there are more allied Heishi than enemy servants.
+At the end of your turn ⇒ Banish a servant.</text>
+    </card>
+    <card>
+      <name>Merril Laisse Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/572/image_en/cd8212bc-bf83-402b-96e8-096272453c8c.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish this card: Search your deck for a Lv1 card named "Saira Treverse" and put it into the field. Then shuffle your deck. Play this ability only if you don't control a card named "Saira Treverse".</text>
+    </card>
+    <card>
+      <name>Broom Schlein Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/573/image_en/3cea2501-ff79-40b9-b067-a41be8fa448f.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Draw a card if an allied Heishi servant was put into a graveyard from a servant zone this turn.</text>
+    </card>
+    <card>
+      <name>Lumielle Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/574/image_en/d64ff10b-7c69-424b-8eec-a151f640658c.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Swap the ATK and DEF of target enemy servant until end of turn</text>
+    </card>
+    <card>
+      <name>Glow Desire Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/575/image_en/8efc1893-c203-4521-999d-64a61f7a4b3d.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Glow Desire": Target allied servant gains +500 ATK until end of turn. Draw a card.
+[Rest]: Target servant with ATK higher than its printed ATK gains +2000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Tadanori</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/576/image_en/0b4fac80-e082-4ee0-8411-2ae827e5cb43.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Heroic Spirit/Heishi</type>
+      <pt>5/10</pt>
+      <tablerow>3</tablerow>
+      <text>You may pay [1] less to play this card if a Heishi not named "Tadanori" was put into the field this turn. (This cost can't be reduced lower than 1.)</text>
+    </card>
+    <card>
+      <name>Usamaru</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/577/image_en/96739e74-4511-42f6-8faf-accd8c1e8e91.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Youkai/Heishi</type>
+      <pt>20/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Draw a card.</text>
+    </card>
+    <card>
+      <name>Goblin Thief</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/578/image_en/025d2f25-003f-4a58-ba9f-e11eada67162.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Cryptid</type>
+      <pt>40/40</pt>
+      <tablerow>3</tablerow>
+      <text>Whenever this card is attacked ⇒ That attacking enemy player gains control of this card.</text>
+    </card>
+    <card>
+      <name>Pillage</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/57/579/image_en/36d198b8-67c6-496d-8f7c-c6dc531b0744.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Until end of turn, if target enemy player would draw a card by a card or ability, you draw a card instead.</text>
+    </card>
+    <card>
+      <name>Preparation</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/580/image_en/72b78043-f600-40d3-930b-c6d619f9ca27.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Destroy target servant. If you do, it's owner searches their deck for a card with the same name and puts it into the field. Then that player shuffles their deck.</text>
+    </card>
+    <card>
+      <name>Abolition</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/581/image_en/af795bd4-1b74-4efb-b4ea-040b7a26256e.jpg">BP02</set>
+      <color>Luna</color>
+      <manacost>7</manacost>
+      <cmc>7</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Put all servants on the bottom of their owners' decks in any order chosen by their owners.</text>
+    </card>
+    <card>
+      <name>Lineal Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/582/image_en/53db74d3-29ff-4937-a3f2-d35dbfe152c6.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest]: Put target conjure in an enemy graveyard on the bottom of its owner's deck.</text>
+    </card>
+    <card>
+      <name>Lady Lupinus Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/583/image_en/715a7740-a97f-4e4a-a47a-05209a93a767.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Put target Heishi in an allied graveyard into your hand.</text>
+    </card>
+    <card>
+      <name>Broom Spica Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/584/image_en/7a63841d-97ab-42af-99d0-6562c3bd4f57.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish this card: Search your deck for a Lv1 card named "Haru Michelle" and put it into the field. Then shuffle your deck. Play this ability only if you don't control a card named "Haru Michelle".</text>
+    </card>
+    <card>
+      <name>Karen Urania Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/585/image_en/2862c8bc-8db2-46eb-86c7-3d55436ac9a5.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>Banish another "Karen Urania": Until end of turn, the next time target allied servant would be destroyed by non-battle, it isn't destroyed.
+[Rest]: Draw two cards and discard a card if an allied servant was destroyed by non-battle this turn.</text>
+    </card>
+    <card>
+      <name>Tadamasa</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/586/image_en/07d68329-2284-402a-b83a-10cb775deda1.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Heroic Spirit/Heishi</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+[Enter] ⇒ Rest or reverse target servant.</text>
+    </card>
+    <card>
+      <name>Rocket Pencil Hedgehog</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/587/image_en/1583ffd2-6d31-4bd3-ac79-075fce831870.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Servant - Supplies</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>Whenever this card is targeted by an enemy card or ability ⇒ That enemy player discards a card.</text>
+    </card>
+    <card>
+      <name>Iemori</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/588/image_en/77b4b204-484d-4bed-b59e-1c33afab7e3b.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Servant - Heroic Spirit/Heishi</type>
+      <pt>20/20</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Search your deck for a Heishi not named "Iemori", reveal it and put it into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Increased Exposure</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/58/589/image_en/1c1fd679-b2f1-44e3-853a-7a68b2bbbb8b.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Search your deck for a Lv2 caster, reveal it and put it into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Knowledge From Ancestors</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/590/image_en/df6405de-1795-4f03-ab07-059aa7ae0232.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Search your deck for a conjure, reveal it and put it into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Ambush</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/591/image_en/1d98a828-4da6-4a60-9535-9da965899b14.jpg">BP02</set>
+      <color>Aqua</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>[Quickcast] (You may play this card any time you have priority.)
+Reveal the top five cards of your deck. Put a Heishi from among them into the field. Put the rest on the bottom of your deck in any order. At the next end of turn ⇒ Destroy the card put into the field by this card.</text>
+    </card>
+    <card>
+      <name>Rei Ranpole Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/592/image_en/0a1201f5-d478-4b77-a6e2-0e2419b09bbb.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish this card: Search your deck for a Lv1 card named "Mona Styla" and put it into the field. Then shuffle your deck. Play this ability only if you don't control a card named "Mona Styla".</text>
+    </card>
+    <card>
+      <name>Oar Schlein Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/593/image_en/d5f5a1e3-a140-4325-9410-239832f7aeab.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish a Genji: Draw a card.</text>
+    </card>
+    <card>
+      <name>Tenel Frula Lv1</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/594/image_en/364b0a63-350c-465a-9079-7d061aa2dd0d.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], discard a caster: Target allied Cosmetics gains [Double Corrupt] until end of turn.</text>
+    </card>
+    <card>
+      <name>Citra Cayce Lv2</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/595/image_en/da3dfe69-4e27-451c-8cc0-f6c4e77a3844.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost/>
+      <cmc/>
+      <type>Caster</type>
+      <tablerow>0</tablerow>
+      <text>[Rest], banish another "Citra Cayce": Search your deck for a Lv1 caster you do not control and put it into the field. Then shuffle your deck. Play this ability only during main timing.
+[rest], return a Lv1 allied  caster to its owner's hand: Up to two target allied Cosmetics gain +1000 ATK until end of turn.</text>
+    </card>
+    <card>
+      <name>Tokiwa</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/596/image_en/d144436a-956a-4bb2-9eea-154e977887e9.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Servant - Heroic Spirit/Genji</type>
+      <pt>5/0</pt>
+      <tablerow>3</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Masako</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/597/image_en/ba7f591d-0472-41dc-9ba2-0521d5afd7da.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Servant - Heroic Spirit/Genji</type>
+      <pt>5/5</pt>
+      <tablerow>3</tablerow>
+      <text>[Enter] ⇒ Rest target reversed enemy servant.</text>
+    </card>
+    <card>
+      <name>Sagami Bou TENGU48</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/598/image_en/6d4c554c-6c29-4294-bdce-01b67f3e2a43.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Servant - Tengu</type>
+      <pt>30/30</pt>
+      <tablerow>3</tablerow>
+      <text>At the beginning of your turn ⇒ Return this card to its owner's hard.
+[Enter] ⇒ Gain control of target enemy servant as long as this card is in the field. (Even if control of this card changes, you retain control of the targeted card.)</text>
+    </card>
+    <card>
+      <name>Soul Bond</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/59/599/image_en/3ef5defd-0c90-4f9f-a635-6b1fd66e48f9.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>You may pay the Aes aether cost of this card with aether of any element. (Aether of no element still cannot be used.)
+Choose a soul bond servant from your extra deck and soul bond it. (Choose one of each of the required soul bond material casters from among the allied caster zone, or your hand. If you do, put the revealed soul bond servant into the allied servant zone with the soul bond materials as its stock.)</text>
+    </card>
+    <card>
+      <name>Forbidden Love</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/60/600/image_en/92c3acba-0dab-421b-9d86-b836efd408e7.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to play this card, discard two casters.
+Search your deck for two Lv1 casters with different names, reveal them and put them into your hand. Then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Partner Change</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/60/601/image_en/e38d6dc0-3326-43e5-8083-a134a4d4a1f8.jpg">BP02</set>
+      <color>Aes</color>
+      <manacost>4</manacost>
+      <cmc>4</cmc>
+      <type>Conjure</type>
+      <tablerow>3</tablerow>
+      <text>Exchange control of target Lv1 face up caster your opponent controls that does not share a name with any card you control, and target Lv1 face up caster you control that does not share a name with any card your opponent controls. (If, during this card's resolution, a target becomes invalid for any reason, the exchange does not occur.)</text>
+    </card>
+    <card>
+      <name>Kururu Sentline</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/60/602/image_en/96ab60b1-d349-4f45-a2ff-c1092f8f5109.jpg">BP02</set>
+      <color>Soulbond</color>
+      <manacost/>
+      <cmc/>
+      <type>Soul Bond Servant - Spirit Form</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>"Twinkle Charm" ♥ "Zoi Russel"
+[Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter]. Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
+[Enter] ⇒ Target enemy player banishes a servant.</text>
+    </card>
+    <card>
+      <name>Sirius Lucin</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/60/603/image_en/e3f1425b-b842-451b-99b4-fe39768d6c3a.jpg">BP02</set>
+      <color>Soulbond</color>
+      <manacost/>
+      <cmc/>
+      <type>Soul Bond Servant - Spirit Form</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>"Deshi Lion" ♥ "Chaleur Suu"
+[Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
+[Enter] ⇒ Destroy target reversed enemy servant.</text>
+    </card>
+    <card>
+      <name>Floom Heidi</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/60/604/image_en/293ac4d2-b157-42e9-ab3b-c90637bc56fc.jpg">BP02</set>
+      <color>Soulbond</color>
+      <manacost/>
+      <cmc/>
+      <type>Soul Bond Servant - Spirit Form</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>"Flame Rouge" ♥ "Chain of Hearts"
+[Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
+[Enter] ⇒ Return target servant to its owner's hand.</text>
+    </card>
+    <card>
+      <name>Mipheel</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/60/605/image_en/e0fa2673-1d05-40aa-9858-68099a33c833.jpg">BP02</set>
+      <color>Soulbond</color>
+      <manacost/>
+      <cmc/>
+      <type>Soul Bond Servant - Spirit Form</type>
+      <pt>20/0</pt>
+      <tablerow>3</tablerow>
+      <text>"Ran Berfield" ♥ "Miu"
+[Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
+[Enter] ⇒ Put target servant in an allied graveyard into your hand. (When this card enters the field ⇒ Perform the effect.)</text>
+    </card>
+    <card>
+      <name>Ranniart</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/60/606/image_en/d1b945a0-811f-4108-a48d-d32df7c50d59.jpg">BP02</set>
+      <color>Soulbond</color>
+      <manacost/>
+      <cmc/>
+      <type>Soul Bond Servant - Spirit Form</type>
+      <pt>20/0</pt>
+      <tablerow>3</tablerow>
+      <text>"Sunny" ♥ "Shera Angellica"
+[Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
+[Enter] ⇒ Target enemy player discards a card.
+Whenever this card corrupts an orb ⇒ Draw a card.</text>
+    </card>
+    <card>
+      <name>Lily Lulu</name>
+      <set picURL="http://d12h0em1d7ppg.cloudfront.net/cc_items/60/607/image_en/2ab8e91b-01de-4146-a824-2e220c9d932f.jpg">BP02</set>
+      <color>Soulbond</color>
+      <manacost/>
+      <cmc/>
+      <type>Soul Bond Servant - Spirit Form</type>
+      <pt>10/10</pt>
+      <tablerow>3</tablerow>
+      <text>"Paruetta" ♥ "Eli Superior"
+[Soul Seal] (This card has "Banish one of this card's stock: Play this card's [Enter] Play this ability only during main timing.". If this card would leave the field for a non-field zone. Banish one of this card's stock instead.)
+[Enter] ⇒ Look at the top four cards of your deck. You may choose a Flower or Insect from among them and put it into the field. Put the rest on the bottom of your deck in any order.
+[Last Words] ⇒ Banish all allied Flowers and Insects.</text>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
