@@ -15,7 +15,7 @@ This installation guide assumes basic computer literacy and a system without Coc
 4. Drag the `customsets` and `themes` folders of the unzipped repository into the Cockatrice folder. If you already have these folders created, merge the contents.
 5. Open Cockatrice and follow any prompts that it gives to enable sets. If you don't see any Casters cards in the card list, restart Cockatrice.
 6. In the settings menu (Cockatrice -> Settings), in the "Appearance" tab, select Casters in the dropdown.
-7. In the Edit Sets menu (Cockatrice -> Edit sets), make sure that all of the Caster Chronicles sets are enabled. If you prefer artwork from a certain set, the card database finds card images from the topmost set in the list.
+7. In the Edit Sets menu (Card Database -> Edit sets), make sure that all of the Caster Chronicles sets are enabled. If you prefer artwork from a certain set, the card database finds card images from the topmost set in the list.
 
 You're done! Restart Cockatrice if needed, then start building and playing!
 
