@@ -2836,7 +2836,7 @@ Until end of turn, if target enemy player would draw a card by a card or ability
       <type>Conjure</type>
       <tablerow>3</tablerow>
       <text>[Quickcast] (You may play this card any time you have priority.)
-Reveal the top five cards of your deck. Put a Heishi from among them into the field. Put the rest on the bottom of your deck in any order. At the next end of turn ⇒ Destroy the card put into the field by this card.</text>
+Reveal the top five cards of your deck. Put a Heishi from among them into the field. Put the rest on the bottom of your deck in any order. Put the rest on the bottom of your deck in any order. At the next end of turn ⇒ Destroy the card put into the field by this card.</text>
     </card>
     <card>
       <name>Rei Ranpole Lv1</name>
