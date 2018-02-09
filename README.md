@@ -29,5 +29,13 @@ Here are some gameplay tips and tricks to help your game go smoothly and effecti
 5. To use Soulbond Servants, add them to your sideboard (doubleclick from the main deck area, or Ctrl+Enter while the card name is highlighted in the deck editor). To grab them in-game, use Shift+F3 to access your sideboard. When playing a Soul Bond Servant, to mark both of the casters used to summon it to its stock, rightclick those casters and use the Attach to Card command on the Soul Bond servant. To unattach them, rightclick them again.
 6. If you can't figure out how to manipulate the cards to do what you want them to do, explore the rightclick menu on all sorts of objects in the window. It has tons of useful options for interacting with the GUI if you can't remember the keyboard shortcuts.
 
+### List of Included Sets
+* SD01/SDO2 Starter Deck [Wings of Anger], [Arrogant Swallowtail] (10/20/17)
+* BP01 Booster Pack Vol. 1 [The Magic Battle Begins] (10/20/17)
+* BP02 Booster Pack Vol. 2 [πth Dimension Battle Royale] (2/9/18)
+* Promo Cards as of 2/9/18
+
+
+
 #### Disclaimer
 I do not own The Caster Chronicles or contribute to Cockatrice. This is only a text document containing publicly available information. I do not gain anything from this project other than the personal satisfaction that I was able to help spread an awesome game.
