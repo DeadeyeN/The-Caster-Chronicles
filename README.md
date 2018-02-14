@@ -6,6 +6,8 @@ a set of awesome developers. The documentation for their program is very robust,
 
 Have an issue with this page or the Casters-specific parts of the implementation *(incorrect card text, etc.)*? [Submit a ticket!](https://github.com/DeadeyeN/The-Caster-Chronicles/issues/new)
 
+*Special thanks to my friends Mattaiyah and Enhaloed for helping to re-teach me Python.*
+
 ## Installation instructions
 This installation guide assumes basic computer literacy and a system without Cockatrice installed.
 
