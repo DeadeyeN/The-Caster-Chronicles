@@ -30,6 +30,7 @@ Here are some gameplay tips and tricks to help your game go smoothly and effecti
 4. As of right now there isn't a way to turn your cards upside-down to represent the "reverse" position. The easiest fix I can offer is to place a counter (preferably red) on the card to mark it as reversed.
 5. To use Soulbond Servants, add them to your sideboard (doubleclick from the main deck area, or Ctrl+Enter while the card name is highlighted in the deck editor). To grab them in-game, use Shift+F3 to access your sideboard. When playing a Soul Bond Servant, to mark both of the casters used to summon it to its stock, rightclick those casters and use the Attach to Card command on the Soul Bond servant. To unattach them, rightclick them again.
 6. If you can't figure out how to manipulate the cards to do what you want them to do, explore the rightclick menu on all sorts of objects in the window. It has tons of useful options for interacting with the GUI if you can't remember the keyboard shortcuts.
+7. When you reveal a servant with [Break], it won't have its ATK/DEF displayed on the bottom right. To fix this, drag it to the stack/chase area, then back into the field.
 
 ## List of Included Sets
 * SD01/SD02 Starter Deck [Wings of Anger], [Arrogant Swallowtail] (10/20/17)
